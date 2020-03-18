@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> 
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+  <title></title>
+</head>
+<body>
+    <h1>Containerized Application Services</h1> 
+    {% if form1 %}
+      <div id="form1">
+        <form action="{{ url_for('index') }}" method ="POST">
+          <p> 
+              {{ form1.keyword_field.label }} {{ form1.keyword_field }}
+          </p>
+          <input type="submit" name="submit" >
+        </form>
+      </div>
+    {% endif %}
+    {% if keys and not show_form %}
+      <div id="form2">
+        <form action="/home/records/{{ keys }}" method="POST">
+          <b>Retreive Records From Catalogue: </b><input type="text" name="search-result" id="search-result" value="{{ keys }}"><br><br>
+          <input type="submit" name="retreive" value="Retreive">
+        </form>
+      </div>
+    {% endif %}
+    {% if result %} 
+      <table class="table table-dark table-hover" id="catalogue_results">
+        <caption><b>Top 5 Records Records Retrieved from Catalgue<b></caption>
+        <thead>
+          <tr>
+            <th scope="col">Record No.</th>
+            <th scope="col">Title</th>
+            <th scope="col">Author</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for records in result %}
+            <tr>
+              <th scope="row">{{ loop.index }}</th>
+              <td>{{ records[0] }}</td>
+              <td>{{ records[1] }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table> 
+      <form method="GET" action="/home/notes/{{ request.url.split("/")[-1] }}">
+        <label for="enter-notes">Add Notes related to the <b>Keyword: </b>{{ request.url.split("/")[-1] }}</label>
+        <textarea class="form-control" rows="3" name="enter-notes" id="enter-notes"></textarea>
+        <input type="submit" name="submit_notes" value="Add notes">
+    </form>
+    {% endif %}
+    {% if success == True %}
+      <h1>Submitted Note: {{ notes }}</h1>
+    {% endif %}
+    <form method="POST" action="/home/notes/results/{{ request.url.split("/")[-1] }}">
+      <input type="submit" name="retreive_notes" value="Retreive notes">
+    </form>
+    {% if notes %}
+      <h1> {{ notes }} </h1>
+    {% endif %}
+</body>
+<script type="text/Javascript">
+    $('#form1').submit(function() { 
+      $(this).hide(); 
+    });
+    
+</script>
+</html>

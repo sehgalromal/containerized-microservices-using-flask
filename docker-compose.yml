@@ -1,0 +1,26 @@
+version: '3' 
+
+services: 
+  Catalogue:
+    build: ./Catalogue
+    expose: 
+      - "5200"
+    depends_on: 
+      - Search_Log 
+    links:
+      - Search_Log
+  
+  Search_Log:
+    build: ./Search_Log 
+    expose: 
+      - "5001"
+  
+  Notes:
+    build: ./Notes 
+    expose: 
+      - "5300"
+      
+
+    
+
+
