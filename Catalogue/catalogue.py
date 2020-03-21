@@ -7,7 +7,7 @@ app = Flask(__name__)
 class MongoDB:
     @staticmethod 
     def establish_connection():
-        client = MongoClient("mongodb://admin:test123@54.84.128.111:27017/English_Book_Records?authSource=admin")
+        client = MongoClient("mongodb://admin:test123@18.207.217.163:27017/English_Book_Records?authSource=admin")
         return client
 
 conn = MongoDB() 

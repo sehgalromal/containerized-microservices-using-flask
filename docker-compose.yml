@@ -1,26 +1,23 @@
-version: '3' 
+version: '3'
 
-services: 
-  Catalogue:
+services:
+  catalogue:
     build: ./Catalogue
-    expose: 
-      - "5200"
-    depends_on: 
-      - Search_Log 
+    ports:
+      - "5200:5200"
     links:
-      - Search_Log
-  
-  Search_Log:
-    build: ./Search_Log 
-    expose: 
-      - "5001"
-  
-  Notes:
-    build: ./Notes 
-    expose: 
-      - "5300"
-      
+       - db
+  db:
+    build: ./db
+    ports:
+      - "27017:27017"
 
-    
+  search_log:
+    build: ./Search_Log
+    ports:
+      - "5001:5001"
 
-
+  notes:
+    build: ./Notes
+    ports:
+      - "5300:5300"

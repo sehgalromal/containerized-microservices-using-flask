@@ -8,7 +8,7 @@ app.config['SECRET_KEY'] = 'cloud-5409-assignment-docker-containers'
 
 
 class SubmitKeyword(FlaskForm):
-    keyword_field = StringField('Search Keyword', description="Search By keyword")
+    keyword_field = StringField('Search Keyword', render_kw={"placeholder": "Search by any keyword"})
 
 class SubmitNotes(FlaskForm):
     notes_field = TextAreaField('Add Notes associated with the submitted keyword')
@@ -27,14 +27,16 @@ def index():
 
 @app.route("/home/<keyword>", methods=["POST", "GET"])
 def process_search(keyword):
+    submitted_form = True 
     if request.method == "POST":
         return redirect(url_for('show_records', keyword = keyword))
         
-    return render_template('home.html', keys = keyword)
+    return render_template('home.html', keys = keyword, submitted = submitted_form)
 
 
 @app.route("/home/records/<keyword>", methods=["POST", "GET"])
 def show_records(keyword):
+    show_notes = True 
     catalogue_url = "http://localhost:5200/catalogue/" + keyword
     response_keyword_catalog = requests.get(catalogue_url).json() 
     counter = 0 
@@ -44,7 +46,7 @@ def show_records(keyword):
             break;
         first_5_records.append((title, author))
         counter += 1
-    return render_template('home.html',result = first_5_records,  keys = request.args.get('keyword'))
+    return render_template('home.html',result = first_5_records,  keys = request.args.get('keyword'), show_notes = show_notes)
 
 
 @app.route("/home/notes/<keyword>", methods=["POST", "GET"])

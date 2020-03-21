@@ -8,19 +8,20 @@
   <title></title>
 </head>
 <body>
-    <h1>Containerized Application Services</h1> 
+    <h1 align="center">Containerized Application Services</h1> 
+    <br>
     {% if form1 %}
-      <div id="form1">
+      <div id="form1" align="center">
         <form action="{{ url_for('index') }}" method ="POST">
           <p> 
-              {{ form1.keyword_field.label }} {{ form1.keyword_field }}
-          </p>
-          <input type="submit" name="submit" >
+              <b>{{ form1.keyword_field.label }}</b>: <span>{{ form1.keyword_field }}</span>
+              <input type="submit" name="submit">
+          </p> 
         </form>
       </div>
     {% endif %}
     {% if keys and not show_form %}
-      <div id="form2">
+      <div id="form2" align="center">
         <form action="/home/records/{{ keys }}" method="POST">
           <b>Retreive Records From Catalogue: </b><input type="text" name="search-result" id="search-result" value="{{ keys }}"><br><br>
           <input type="submit" name="retreive" value="Retreive">
@@ -47,20 +48,23 @@
           {% endfor %}
         </tbody>
       </table> 
-      <form method="GET" action="/home/notes/{{ request.url.split("/")[-1] }}">
+      <form align="center" method="GET" action="/home/notes/{{ request.url.split("/")[-1] }}">
         <label for="enter-notes">Add Notes related to the <b>Keyword: </b>{{ request.url.split("/")[-1] }}</label>
         <textarea class="form-control" rows="3" name="enter-notes" id="enter-notes"></textarea>
         <input type="submit" name="submit_notes" value="Add notes">
     </form>
     {% endif %}
     {% if success == True %}
-      <h1>Submitted Note: {{ notes }}</h1>
+      <h1 align="center">Submitted Note: {{ notes }}</h1>
     {% endif %}
-    <form method="POST" action="/home/notes/results/{{ request.url.split("/")[-1] }}">
-      <input type="submit" name="retreive_notes" value="Retreive notes">
-    </form>
+    {% if submitted == True %}
+      <div class="alert alert-success" role="alert">Keyword Submitted to Search Log!</div>
+      <form align="center" method="POST" action="/home/notes/results/{{ request.url.split("/")[-1] }}">
+        <input type="submit" name="retreive_notes" value="Retreive notes">
+      </form>
+    {% endif %}
     {% if notes %}
-      <h1> {{ notes }} </h1>
+      <h1 "center"> {{ notes }} </h1>
     {% endif %}
 </body>
 <script type="text/Javascript">
