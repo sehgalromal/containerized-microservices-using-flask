@@ -19,10 +19,13 @@ class SubmitNotes(FlaskForm):
 def index():
     form1 = SubmitKeyword()
     if request.method == "POST":
-        keyword = request.form["keyword_field"]
-        #if the user has submitted the keyword, then that keyword will be submitted to search log 
-        requests.post("http://localhost:5001/search_log/" + keyword, json = {"keyword": keyword })
-        return redirect(url_for('process_search', keyword = keyword))
+        try:
+            keyword = request.form["keyword_field"]
+            #if the user has submitted the keyword, then that keyword will be submitted to search log 
+            requests.post("http://localhost:5001/search_log/" + keyword, json = {"keyword": keyword })
+            return redirect(url_for('process_search', keyword = keyword))
+        except:
+            return render_template('home.html', form1 = form1)
     return render_template('home.html', form1 = form1)
 
 @app.route("/home/<keyword>", methods=["POST", "GET"])
@@ -52,12 +55,12 @@ def show_records(keyword):
 @app.route("/home/notes/<keyword>", methods=["POST", "GET"])
 def add_notes(keyword):
     success = True 
-    notes = request.args.get('enter-notes')
+    note = request.args.get('enter-notes')
     requests.post("http://localhost:5300/notes/" + keyword, json = {
-        "note": notes,
+        "note": note,
         "keyword": keyword
     })
-    return render_template('home.html', keyword = keyword, notes = notes, success = success)
+    return render_template('home.html', keyword = keyword, note = note, success = success)
 
 @app.route("/home/notes/results/<keyword>", methods=["POST", "GET"])
 def retrieve_notes(keyword):

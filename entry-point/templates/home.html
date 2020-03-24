@@ -24,7 +24,7 @@
       <div id="form2" align="center">
         <form action="/home/records/{{ keys }}" method="POST">
           <b>Retreive Records From Catalogue: </b><input type="text" name="search-result" id="search-result" value="{{ keys }}"><br><br>
-          <input type="submit" name="retreive" value="Retreive">
+          <input type="submit" name="retreive" value="Retreive Records">
         </form>
       </div>
     {% endif %}
@@ -55,16 +55,28 @@
     </form>
     {% endif %}
     {% if success == True %}
-      <h1 align="center">Submitted Note: {{ notes }}</h1>
-    {% endif %}
-    {% if submitted == True %}
-      <div class="alert alert-success" role="alert">Keyword Submitted to Search Log!</div>
+      <h1 align="center">Submitted Note: {{ note }}</h1>
       <form align="center" method="POST" action="/home/notes/results/{{ request.url.split("/")[-1] }}">
         <input type="submit" name="retreive_notes" value="Retreive notes">
       </form>
     {% endif %}
-    {% if notes %}
-      <h1 "center"> {{ notes }} </h1>
+    {% if submitted == True %}
+      <div class="alert alert-success" role="alert">Keyword Submitted to Search Log!</div>
+    {% endif %}
+    {% if show_notes == True %}
+      <form align="center" method="POST" action="/home/notes/results/{{ request.url.split("/")[-1] }}">
+        <input type="submit" name="retreive_notes" value="Retreive notes">
+      </form>
+    {% endif %}
+    {% if notes  %}
+      {% set count = 0 %}
+      {% for note in notes['notes'] %}
+        <h2 "center">Note {{ loop.index }}: {{ note[1] }} </h1>
+      {% set count = count + 1 %}
+      {% endfor %}
+      <form action="/" method="POST">
+        <input type="submit" value="Search Again"  name="search-again">
+    </form>
     {% endif %}
 </body>
 <script type="text/Javascript">

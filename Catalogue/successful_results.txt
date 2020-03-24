@@ -5796,3 +5796,1893 @@ query_id, author, title
 82, s Country, Emily Churchill Thompson Sheets 
 83, The Olivia Letters, Emily Edson Briggs                                
 84, Emily of New Moon, Lucy Maud Montgomery 
+1, Wuthering Heights, Emily Bront
+2, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+3, Etiquette, Emily Post 
+4,  Complete, Emily Dickinson 
+5,  Third Series, Emily Dickinson 
+6, The Story Of Ireland, Emily Lawless 
+7, Entertaining Made Easy, Emily Rose Burt 
+8, Our Catholic Heritage in English Literature, Emily Hickey 
+9,  The History of Emily Montague, Frances Brooke 
+10, s Delight, Emily Mayer Higgins 
+11,  Woman as Decoration, Emily Burbank 
+12, Suzanna Stirs the Fire, Emily Calvin Blake 
+13, s Daughter, Emily Sarah Holt 
+14, The White Lady of Hazelwood, Emily Sarah Holt 
+15, The White Rose of Langley, Emily Sarah Holt 
+16,  Mistress Margery, Emily Sarah Holt 
+17, The Well in the Desert, Emily Sarah Holt 
+18, Our Little Lady, Emily Sarah Holt 
+19, s Daughters, Emily Sarah Holt 
+20, A Forgotten Hero, Emily Sarah Holt 
+21, Clare Avery, Emily Sarah Holt 
+22,  Lodge, Emily Sarah Holt 
+23, The Gold that Glitters, Emily Sarah Holt 
+24, s Well, Emily Sarah Holt 
+25, Through the Malay Archipelago, Emily Richings 
+26,  A Poem XXI, Emily Dickinson 
+27, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+28, It Might Have Been, Emily Sarah Holt 
+29, s Harvest, Emily Sarah Holt 
+30,  cat, Emily Neville 
+31, s Sake, Emily Sarah Holt 
+32, An Ohio Woman in the Philippines, Emily Bronson Conger 
+33, Robin Tremayne, Emily Sarah Holt 
+34, One Snowy Night, Emily Sarah Holt 
+35, In Convent Walls, Emily Sarah Holt 
+36, Jap Herron, Emily Grant Hutchings 
+37, Barbara Lynn, Emily J
+38, s Letters, Emily Eden 
+39, Blazing The Way, Emily Inez Denny 
+40, s Country, Emily Churchill Thompson Sheets 
+41, The Olivia Letters, Emily Edson Briggs                                
+42, Emily of New Moon, Lucy Maud Montgomery 
+43, Wuthering Heights, Emily Bront
+44, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+45, Etiquette, Emily Post 
+46,  Complete, Emily Dickinson 
+47,  Third Series, Emily Dickinson 
+48, The Story Of Ireland, Emily Lawless 
+49, Entertaining Made Easy, Emily Rose Burt 
+50, Our Catholic Heritage in English Literature, Emily Hickey 
+51,  The History of Emily Montague, Frances Brooke 
+52, s Delight, Emily Mayer Higgins 
+53,  Woman as Decoration, Emily Burbank 
+54, Suzanna Stirs the Fire, Emily Calvin Blake 
+55, s Daughter, Emily Sarah Holt 
+56, The White Lady of Hazelwood, Emily Sarah Holt 
+57, The White Rose of Langley, Emily Sarah Holt 
+58,  Mistress Margery, Emily Sarah Holt 
+59, The Well in the Desert, Emily Sarah Holt 
+60, Our Little Lady, Emily Sarah Holt 
+61, s Daughters, Emily Sarah Holt 
+62, A Forgotten Hero, Emily Sarah Holt 
+63, Clare Avery, Emily Sarah Holt 
+64,  Lodge, Emily Sarah Holt 
+65, The Gold that Glitters, Emily Sarah Holt 
+66, s Well, Emily Sarah Holt 
+67, Through the Malay Archipelago, Emily Richings 
+68,  A Poem XXI, Emily Dickinson 
+69, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+70, It Might Have Been, Emily Sarah Holt 
+71, s Harvest, Emily Sarah Holt 
+72,  cat, Emily Neville 
+73, s Sake, Emily Sarah Holt 
+74, An Ohio Woman in the Philippines, Emily Bronson Conger 
+75, Robin Tremayne, Emily Sarah Holt 
+76, One Snowy Night, Emily Sarah Holt 
+77, In Convent Walls, Emily Sarah Holt 
+78, Jap Herron, Emily Grant Hutchings 
+79, Barbara Lynn, Emily J
+80, s Letters, Emily Eden 
+81, Blazing The Way, Emily Inez Denny 
+82, s Country, Emily Churchill Thompson Sheets 
+83, The Olivia Letters, Emily Edson Briggs                                
+84, Emily of New Moon, Lucy Maud Montgomery 
+85, Wuthering Heights, Emily Bront
+86, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+87, Etiquette, Emily Post 
+88,  Complete, Emily Dickinson 
+89,  Third Series, Emily Dickinson 
+90, The Story Of Ireland, Emily Lawless 
+91, Entertaining Made Easy, Emily Rose Burt 
+92, Our Catholic Heritage in English Literature, Emily Hickey 
+93,  The History of Emily Montague, Frances Brooke 
+94, s Delight, Emily Mayer Higgins 
+95,  Woman as Decoration, Emily Burbank 
+96, Suzanna Stirs the Fire, Emily Calvin Blake 
+97, s Daughter, Emily Sarah Holt 
+98, The White Lady of Hazelwood, Emily Sarah Holt 
+99, The White Rose of Langley, Emily Sarah Holt 
+100,  Mistress Margery, Emily Sarah Holt 
+101, The Well in the Desert, Emily Sarah Holt 
+102, Our Little Lady, Emily Sarah Holt 
+103, s Daughters, Emily Sarah Holt 
+104, A Forgotten Hero, Emily Sarah Holt 
+105, Clare Avery, Emily Sarah Holt 
+106,  Lodge, Emily Sarah Holt 
+107, The Gold that Glitters, Emily Sarah Holt 
+108, s Well, Emily Sarah Holt 
+109, Through the Malay Archipelago, Emily Richings 
+110,  A Poem XXI, Emily Dickinson 
+111, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+112, It Might Have Been, Emily Sarah Holt 
+113, s Harvest, Emily Sarah Holt 
+114,  cat, Emily Neville 
+115, s Sake, Emily Sarah Holt 
+116, An Ohio Woman in the Philippines, Emily Bronson Conger 
+117, Robin Tremayne, Emily Sarah Holt 
+118, One Snowy Night, Emily Sarah Holt 
+119, In Convent Walls, Emily Sarah Holt 
+120, Jap Herron, Emily Grant Hutchings 
+121, Barbara Lynn, Emily J
+122, s Letters, Emily Eden 
+123, Blazing The Way, Emily Inez Denny 
+124, s Country, Emily Churchill Thompson Sheets 
+125, The Olivia Letters, Emily Edson Briggs                                
+126, Emily of New Moon, Lucy Maud Montgomery 
+127, Wuthering Heights, Emily Bront
+128, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+129, Etiquette, Emily Post 
+130,  Complete, Emily Dickinson 
+131,  Third Series, Emily Dickinson 
+132, The Story Of Ireland, Emily Lawless 
+133, Entertaining Made Easy, Emily Rose Burt 
+134, Our Catholic Heritage in English Literature, Emily Hickey 
+135,  The History of Emily Montague, Frances Brooke 
+136, s Delight, Emily Mayer Higgins 
+137,  Woman as Decoration, Emily Burbank 
+138, Suzanna Stirs the Fire, Emily Calvin Blake 
+139, s Daughter, Emily Sarah Holt 
+140, The White Lady of Hazelwood, Emily Sarah Holt 
+141, The White Rose of Langley, Emily Sarah Holt 
+142,  Mistress Margery, Emily Sarah Holt 
+143, The Well in the Desert, Emily Sarah Holt 
+144, Our Little Lady, Emily Sarah Holt 
+145, s Daughters, Emily Sarah Holt 
+146, A Forgotten Hero, Emily Sarah Holt 
+147, Clare Avery, Emily Sarah Holt 
+148,  Lodge, Emily Sarah Holt 
+149, The Gold that Glitters, Emily Sarah Holt 
+150, s Well, Emily Sarah Holt 
+151, Through the Malay Archipelago, Emily Richings 
+152,  A Poem XXI, Emily Dickinson 
+153, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+154, It Might Have Been, Emily Sarah Holt 
+155, s Harvest, Emily Sarah Holt 
+156,  cat, Emily Neville 
+157, s Sake, Emily Sarah Holt 
+158, An Ohio Woman in the Philippines, Emily Bronson Conger 
+159, Robin Tremayne, Emily Sarah Holt 
+160, One Snowy Night, Emily Sarah Holt 
+161, In Convent Walls, Emily Sarah Holt 
+162, Jap Herron, Emily Grant Hutchings 
+163, Barbara Lynn, Emily J
+164, s Letters, Emily Eden 
+165, Blazing The Way, Emily Inez Denny 
+166, s Country, Emily Churchill Thompson Sheets 
+167, The Olivia Letters, Emily Edson Briggs                                
+168, Emily of New Moon, Lucy Maud Montgomery 
+169, Wuthering Heights, Emily Bront
+170, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+171, Etiquette, Emily Post 
+172,  Complete, Emily Dickinson 
+173,  Third Series, Emily Dickinson 
+174, The Story Of Ireland, Emily Lawless 
+175, Entertaining Made Easy, Emily Rose Burt 
+176, Our Catholic Heritage in English Literature, Emily Hickey 
+177,  The History of Emily Montague, Frances Brooke 
+178, s Delight, Emily Mayer Higgins 
+179,  Woman as Decoration, Emily Burbank 
+180, Suzanna Stirs the Fire, Emily Calvin Blake 
+181, s Daughter, Emily Sarah Holt 
+182, The White Lady of Hazelwood, Emily Sarah Holt 
+183, The White Rose of Langley, Emily Sarah Holt 
+184,  Mistress Margery, Emily Sarah Holt 
+185, The Well in the Desert, Emily Sarah Holt 
+186, Our Little Lady, Emily Sarah Holt 
+187, s Daughters, Emily Sarah Holt 
+188, A Forgotten Hero, Emily Sarah Holt 
+189, Clare Avery, Emily Sarah Holt 
+190,  Lodge, Emily Sarah Holt 
+191, The Gold that Glitters, Emily Sarah Holt 
+192, s Well, Emily Sarah Holt 
+193, Through the Malay Archipelago, Emily Richings 
+194,  A Poem XXI, Emily Dickinson 
+195, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+196, It Might Have Been, Emily Sarah Holt 
+197, s Harvest, Emily Sarah Holt 
+198,  cat, Emily Neville 
+199, s Sake, Emily Sarah Holt 
+200, An Ohio Woman in the Philippines, Emily Bronson Conger 
+201, Robin Tremayne, Emily Sarah Holt 
+202, One Snowy Night, Emily Sarah Holt 
+203, In Convent Walls, Emily Sarah Holt 
+204, Jap Herron, Emily Grant Hutchings 
+205, Barbara Lynn, Emily J
+206, s Letters, Emily Eden 
+207, Blazing The Way, Emily Inez Denny 
+208, s Country, Emily Churchill Thompson Sheets 
+209, The Olivia Letters, Emily Edson Briggs                                
+210, Emily of New Moon, Lucy Maud Montgomery 
+211, Wuthering Heights, Emily Bront
+212, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+213, Etiquette, Emily Post 
+214,  Complete, Emily Dickinson 
+215,  Third Series, Emily Dickinson 
+216, The Story Of Ireland, Emily Lawless 
+217, Entertaining Made Easy, Emily Rose Burt 
+218, Our Catholic Heritage in English Literature, Emily Hickey 
+219,  The History of Emily Montague, Frances Brooke 
+220, s Delight, Emily Mayer Higgins 
+221,  Woman as Decoration, Emily Burbank 
+222, Suzanna Stirs the Fire, Emily Calvin Blake 
+223, s Daughter, Emily Sarah Holt 
+224, The White Lady of Hazelwood, Emily Sarah Holt 
+225, The White Rose of Langley, Emily Sarah Holt 
+226,  Mistress Margery, Emily Sarah Holt 
+227, The Well in the Desert, Emily Sarah Holt 
+228, Our Little Lady, Emily Sarah Holt 
+229, s Daughters, Emily Sarah Holt 
+230, A Forgotten Hero, Emily Sarah Holt 
+231, Clare Avery, Emily Sarah Holt 
+232,  Lodge, Emily Sarah Holt 
+233, The Gold that Glitters, Emily Sarah Holt 
+234, s Well, Emily Sarah Holt 
+235, Through the Malay Archipelago, Emily Richings 
+236,  A Poem XXI, Emily Dickinson 
+237, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+238, It Might Have Been, Emily Sarah Holt 
+239, s Harvest, Emily Sarah Holt 
+240,  cat, Emily Neville 
+241, s Sake, Emily Sarah Holt 
+242, An Ohio Woman in the Philippines, Emily Bronson Conger 
+243, Robin Tremayne, Emily Sarah Holt 
+244, One Snowy Night, Emily Sarah Holt 
+245, In Convent Walls, Emily Sarah Holt 
+246, Jap Herron, Emily Grant Hutchings 
+247, Barbara Lynn, Emily J
+248, s Letters, Emily Eden 
+249, Blazing The Way, Emily Inez Denny 
+250, s Country, Emily Churchill Thompson Sheets 
+251, The Olivia Letters, Emily Edson Briggs                                
+252, Emily of New Moon, Lucy Maud Montgomery 
+253, Wuthering Heights, Emily Bront
+254, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+255, Etiquette, Emily Post 
+256,  Complete, Emily Dickinson 
+257,  Third Series, Emily Dickinson 
+258, The Story Of Ireland, Emily Lawless 
+259, Entertaining Made Easy, Emily Rose Burt 
+260, Our Catholic Heritage in English Literature, Emily Hickey 
+261,  The History of Emily Montague, Frances Brooke 
+262, s Delight, Emily Mayer Higgins 
+263,  Woman as Decoration, Emily Burbank 
+264, Suzanna Stirs the Fire, Emily Calvin Blake 
+265, s Daughter, Emily Sarah Holt 
+266, The White Lady of Hazelwood, Emily Sarah Holt 
+267, The White Rose of Langley, Emily Sarah Holt 
+268,  Mistress Margery, Emily Sarah Holt 
+269, The Well in the Desert, Emily Sarah Holt 
+270, Our Little Lady, Emily Sarah Holt 
+271, s Daughters, Emily Sarah Holt 
+272, A Forgotten Hero, Emily Sarah Holt 
+273, Clare Avery, Emily Sarah Holt 
+274,  Lodge, Emily Sarah Holt 
+275, The Gold that Glitters, Emily Sarah Holt 
+276, s Well, Emily Sarah Holt 
+277, Through the Malay Archipelago, Emily Richings 
+278,  A Poem XXI, Emily Dickinson 
+279, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+280, It Might Have Been, Emily Sarah Holt 
+281, s Harvest, Emily Sarah Holt 
+282,  cat, Emily Neville 
+283, s Sake, Emily Sarah Holt 
+284, An Ohio Woman in the Philippines, Emily Bronson Conger 
+285, Robin Tremayne, Emily Sarah Holt 
+286, One Snowy Night, Emily Sarah Holt 
+287, In Convent Walls, Emily Sarah Holt 
+288, Jap Herron, Emily Grant Hutchings 
+289, Barbara Lynn, Emily J
+290, s Letters, Emily Eden 
+291, Blazing The Way, Emily Inez Denny 
+292, s Country, Emily Churchill Thompson Sheets 
+293, The Olivia Letters, Emily Edson Briggs                                
+294, Emily of New Moon, Lucy Maud Montgomery 
+295, Wuthering Heights, Emily Bront
+296, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+297, Etiquette, Emily Post 
+298,  Complete, Emily Dickinson 
+299,  Third Series, Emily Dickinson 
+300, The Story Of Ireland, Emily Lawless 
+301, Entertaining Made Easy, Emily Rose Burt 
+302, Our Catholic Heritage in English Literature, Emily Hickey 
+303,  The History of Emily Montague, Frances Brooke 
+304, s Delight, Emily Mayer Higgins 
+305,  Woman as Decoration, Emily Burbank 
+306, Suzanna Stirs the Fire, Emily Calvin Blake 
+307, s Daughter, Emily Sarah Holt 
+308, The White Lady of Hazelwood, Emily Sarah Holt 
+309, The White Rose of Langley, Emily Sarah Holt 
+310,  Mistress Margery, Emily Sarah Holt 
+311, The Well in the Desert, Emily Sarah Holt 
+312, Our Little Lady, Emily Sarah Holt 
+313, s Daughters, Emily Sarah Holt 
+314, A Forgotten Hero, Emily Sarah Holt 
+315, Clare Avery, Emily Sarah Holt 
+316,  Lodge, Emily Sarah Holt 
+317, The Gold that Glitters, Emily Sarah Holt 
+318, s Well, Emily Sarah Holt 
+319, Through the Malay Archipelago, Emily Richings 
+320,  A Poem XXI, Emily Dickinson 
+321, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+322, It Might Have Been, Emily Sarah Holt 
+323, s Harvest, Emily Sarah Holt 
+324,  cat, Emily Neville 
+325, s Sake, Emily Sarah Holt 
+326, An Ohio Woman in the Philippines, Emily Bronson Conger 
+327, Robin Tremayne, Emily Sarah Holt 
+328, One Snowy Night, Emily Sarah Holt 
+329, In Convent Walls, Emily Sarah Holt 
+330, Jap Herron, Emily Grant Hutchings 
+331, Barbara Lynn, Emily J
+332, s Letters, Emily Eden 
+333, Blazing The Way, Emily Inez Denny 
+334, s Country, Emily Churchill Thompson Sheets 
+335, The Olivia Letters, Emily Edson Briggs                                
+336, Emily of New Moon, Lucy Maud Montgomery 
+337, Wuthering Heights, Emily Bront
+338, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+339, Etiquette, Emily Post 
+340,  Complete, Emily Dickinson 
+341,  Third Series, Emily Dickinson 
+342, The Story Of Ireland, Emily Lawless 
+343, Entertaining Made Easy, Emily Rose Burt 
+344, Our Catholic Heritage in English Literature, Emily Hickey 
+345,  The History of Emily Montague, Frances Brooke 
+346, s Delight, Emily Mayer Higgins 
+347,  Woman as Decoration, Emily Burbank 
+348, Suzanna Stirs the Fire, Emily Calvin Blake 
+349, s Daughter, Emily Sarah Holt 
+350, The White Lady of Hazelwood, Emily Sarah Holt 
+351, The White Rose of Langley, Emily Sarah Holt 
+352,  Mistress Margery, Emily Sarah Holt 
+353, The Well in the Desert, Emily Sarah Holt 
+354, Our Little Lady, Emily Sarah Holt 
+355, s Daughters, Emily Sarah Holt 
+356, A Forgotten Hero, Emily Sarah Holt 
+357, Clare Avery, Emily Sarah Holt 
+358,  Lodge, Emily Sarah Holt 
+359, The Gold that Glitters, Emily Sarah Holt 
+360, s Well, Emily Sarah Holt 
+361, Through the Malay Archipelago, Emily Richings 
+362,  A Poem XXI, Emily Dickinson 
+363, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+364, It Might Have Been, Emily Sarah Holt 
+365, s Harvest, Emily Sarah Holt 
+366,  cat, Emily Neville 
+367, s Sake, Emily Sarah Holt 
+368, An Ohio Woman in the Philippines, Emily Bronson Conger 
+369, Robin Tremayne, Emily Sarah Holt 
+370, One Snowy Night, Emily Sarah Holt 
+371, In Convent Walls, Emily Sarah Holt 
+372, Jap Herron, Emily Grant Hutchings 
+373, Barbara Lynn, Emily J
+374, s Letters, Emily Eden 
+375, Blazing The Way, Emily Inez Denny 
+376, s Country, Emily Churchill Thompson Sheets 
+377, The Olivia Letters, Emily Edson Briggs                                
+378, Emily of New Moon, Lucy Maud Montgomery 
+379, Wuthering Heights, Emily Bront
+380, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+381, Etiquette, Emily Post 
+382,  Complete, Emily Dickinson 
+383,  Third Series, Emily Dickinson 
+384, The Story Of Ireland, Emily Lawless 
+385, Entertaining Made Easy, Emily Rose Burt 
+386, Our Catholic Heritage in English Literature, Emily Hickey 
+387,  The History of Emily Montague, Frances Brooke 
+388, s Delight, Emily Mayer Higgins 
+389,  Woman as Decoration, Emily Burbank 
+390, Suzanna Stirs the Fire, Emily Calvin Blake 
+391, s Daughter, Emily Sarah Holt 
+392, The White Lady of Hazelwood, Emily Sarah Holt 
+393, The White Rose of Langley, Emily Sarah Holt 
+394,  Mistress Margery, Emily Sarah Holt 
+395, The Well in the Desert, Emily Sarah Holt 
+396, Our Little Lady, Emily Sarah Holt 
+397, s Daughters, Emily Sarah Holt 
+398, A Forgotten Hero, Emily Sarah Holt 
+399, Clare Avery, Emily Sarah Holt 
+400,  Lodge, Emily Sarah Holt 
+401, The Gold that Glitters, Emily Sarah Holt 
+402, s Well, Emily Sarah Holt 
+403, Through the Malay Archipelago, Emily Richings 
+404,  A Poem XXI, Emily Dickinson 
+405, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+406, It Might Have Been, Emily Sarah Holt 
+407, s Harvest, Emily Sarah Holt 
+408,  cat, Emily Neville 
+409, s Sake, Emily Sarah Holt 
+410, An Ohio Woman in the Philippines, Emily Bronson Conger 
+411, Robin Tremayne, Emily Sarah Holt 
+412, One Snowy Night, Emily Sarah Holt 
+413, In Convent Walls, Emily Sarah Holt 
+414, Jap Herron, Emily Grant Hutchings 
+415, Barbara Lynn, Emily J
+416, s Letters, Emily Eden 
+417, Blazing The Way, Emily Inez Denny 
+418, s Country, Emily Churchill Thompson Sheets 
+419, The Olivia Letters, Emily Edson Briggs                                
+420, Emily of New Moon, Lucy Maud Montgomery 
+421, Wuthering Heights, Emily Bront
+422, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+423, Etiquette, Emily Post 
+424,  Complete, Emily Dickinson 
+425,  Third Series, Emily Dickinson 
+426, The Story Of Ireland, Emily Lawless 
+427, Entertaining Made Easy, Emily Rose Burt 
+428, Our Catholic Heritage in English Literature, Emily Hickey 
+429,  The History of Emily Montague, Frances Brooke 
+430, s Delight, Emily Mayer Higgins 
+431,  Woman as Decoration, Emily Burbank 
+432, Suzanna Stirs the Fire, Emily Calvin Blake 
+433, s Daughter, Emily Sarah Holt 
+434, The White Lady of Hazelwood, Emily Sarah Holt 
+435, The White Rose of Langley, Emily Sarah Holt 
+436,  Mistress Margery, Emily Sarah Holt 
+437, The Well in the Desert, Emily Sarah Holt 
+438, Our Little Lady, Emily Sarah Holt 
+439, s Daughters, Emily Sarah Holt 
+440, A Forgotten Hero, Emily Sarah Holt 
+441, Clare Avery, Emily Sarah Holt 
+442,  Lodge, Emily Sarah Holt 
+443, The Gold that Glitters, Emily Sarah Holt 
+444, s Well, Emily Sarah Holt 
+445, Through the Malay Archipelago, Emily Richings 
+446,  A Poem XXI, Emily Dickinson 
+447, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+448, It Might Have Been, Emily Sarah Holt 
+449, s Harvest, Emily Sarah Holt 
+450,  cat, Emily Neville 
+451, s Sake, Emily Sarah Holt 
+452, An Ohio Woman in the Philippines, Emily Bronson Conger 
+453, Robin Tremayne, Emily Sarah Holt 
+454, One Snowy Night, Emily Sarah Holt 
+455, In Convent Walls, Emily Sarah Holt 
+456, Jap Herron, Emily Grant Hutchings 
+457, Barbara Lynn, Emily J
+458, s Letters, Emily Eden 
+459, Blazing The Way, Emily Inez Denny 
+460, s Country, Emily Churchill Thompson Sheets 
+461, The Olivia Letters, Emily Edson Briggs                                
+462, Emily of New Moon, Lucy Maud Montgomery 
+463, Wuthering Heights, Emily Bront
+464, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+465, Etiquette, Emily Post 
+466,  Complete, Emily Dickinson 
+467,  Third Series, Emily Dickinson 
+468, The Story Of Ireland, Emily Lawless 
+469, Entertaining Made Easy, Emily Rose Burt 
+470, Our Catholic Heritage in English Literature, Emily Hickey 
+471,  The History of Emily Montague, Frances Brooke 
+472, s Delight, Emily Mayer Higgins 
+473,  Woman as Decoration, Emily Burbank 
+474, Suzanna Stirs the Fire, Emily Calvin Blake 
+475, s Daughter, Emily Sarah Holt 
+476, The White Lady of Hazelwood, Emily Sarah Holt 
+477, The White Rose of Langley, Emily Sarah Holt 
+478,  Mistress Margery, Emily Sarah Holt 
+479, The Well in the Desert, Emily Sarah Holt 
+480, Our Little Lady, Emily Sarah Holt 
+481, s Daughters, Emily Sarah Holt 
+482, A Forgotten Hero, Emily Sarah Holt 
+483, Clare Avery, Emily Sarah Holt 
+484,  Lodge, Emily Sarah Holt 
+485, The Gold that Glitters, Emily Sarah Holt 
+486, s Well, Emily Sarah Holt 
+487, Through the Malay Archipelago, Emily Richings 
+488,  A Poem XXI, Emily Dickinson 
+489, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+490, It Might Have Been, Emily Sarah Holt 
+491, s Harvest, Emily Sarah Holt 
+492,  cat, Emily Neville 
+493, s Sake, Emily Sarah Holt 
+494, An Ohio Woman in the Philippines, Emily Bronson Conger 
+495, Robin Tremayne, Emily Sarah Holt 
+496, One Snowy Night, Emily Sarah Holt 
+497, In Convent Walls, Emily Sarah Holt 
+498, Jap Herron, Emily Grant Hutchings 
+499, Barbara Lynn, Emily J
+500, s Letters, Emily Eden 
+501, Blazing The Way, Emily Inez Denny 
+502, s Country, Emily Churchill Thompson Sheets 
+503, The Olivia Letters, Emily Edson Briggs                                
+504, Emily of New Moon, Lucy Maud Montgomery 
+505, Wuthering Heights, Emily Bront
+506, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+507, Etiquette, Emily Post 
+508,  Complete, Emily Dickinson 
+509,  Third Series, Emily Dickinson 
+510, The Story Of Ireland, Emily Lawless 
+511, Entertaining Made Easy, Emily Rose Burt 
+512, Our Catholic Heritage in English Literature, Emily Hickey 
+513,  The History of Emily Montague, Frances Brooke 
+514, s Delight, Emily Mayer Higgins 
+515,  Woman as Decoration, Emily Burbank 
+516, Suzanna Stirs the Fire, Emily Calvin Blake 
+517, s Daughter, Emily Sarah Holt 
+518, The White Lady of Hazelwood, Emily Sarah Holt 
+519, The White Rose of Langley, Emily Sarah Holt 
+520,  Mistress Margery, Emily Sarah Holt 
+521, The Well in the Desert, Emily Sarah Holt 
+522, Our Little Lady, Emily Sarah Holt 
+523, s Daughters, Emily Sarah Holt 
+524, A Forgotten Hero, Emily Sarah Holt 
+525, Clare Avery, Emily Sarah Holt 
+526,  Lodge, Emily Sarah Holt 
+527, The Gold that Glitters, Emily Sarah Holt 
+528, s Well, Emily Sarah Holt 
+529, Through the Malay Archipelago, Emily Richings 
+530,  A Poem XXI, Emily Dickinson 
+531, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+532, It Might Have Been, Emily Sarah Holt 
+533, s Harvest, Emily Sarah Holt 
+534,  cat, Emily Neville 
+535, s Sake, Emily Sarah Holt 
+536, An Ohio Woman in the Philippines, Emily Bronson Conger 
+537, Robin Tremayne, Emily Sarah Holt 
+538, One Snowy Night, Emily Sarah Holt 
+539, In Convent Walls, Emily Sarah Holt 
+540, Jap Herron, Emily Grant Hutchings 
+541, Barbara Lynn, Emily J
+542, s Letters, Emily Eden 
+543, Blazing The Way, Emily Inez Denny 
+544, s Country, Emily Churchill Thompson Sheets 
+545, The Olivia Letters, Emily Edson Briggs                                
+546, Emily of New Moon, Lucy Maud Montgomery 
+547, Wuthering Heights, Emily Bront
+548, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+549, Etiquette, Emily Post 
+550,  Complete, Emily Dickinson 
+551,  Third Series, Emily Dickinson 
+552, The Story Of Ireland, Emily Lawless 
+553, Entertaining Made Easy, Emily Rose Burt 
+554, Our Catholic Heritage in English Literature, Emily Hickey 
+555,  The History of Emily Montague, Frances Brooke 
+556, s Delight, Emily Mayer Higgins 
+557,  Woman as Decoration, Emily Burbank 
+558, Suzanna Stirs the Fire, Emily Calvin Blake 
+559, s Daughter, Emily Sarah Holt 
+560, The White Lady of Hazelwood, Emily Sarah Holt 
+561, The White Rose of Langley, Emily Sarah Holt 
+562,  Mistress Margery, Emily Sarah Holt 
+563, The Well in the Desert, Emily Sarah Holt 
+564, Our Little Lady, Emily Sarah Holt 
+565, s Daughters, Emily Sarah Holt 
+566, A Forgotten Hero, Emily Sarah Holt 
+567, Clare Avery, Emily Sarah Holt 
+568,  Lodge, Emily Sarah Holt 
+569, The Gold that Glitters, Emily Sarah Holt 
+570, s Well, Emily Sarah Holt 
+571, Through the Malay Archipelago, Emily Richings 
+572,  A Poem XXI, Emily Dickinson 
+573, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+574, It Might Have Been, Emily Sarah Holt 
+575, s Harvest, Emily Sarah Holt 
+576,  cat, Emily Neville 
+577, s Sake, Emily Sarah Holt 
+578, An Ohio Woman in the Philippines, Emily Bronson Conger 
+579, Robin Tremayne, Emily Sarah Holt 
+580, One Snowy Night, Emily Sarah Holt 
+581, In Convent Walls, Emily Sarah Holt 
+582, Jap Herron, Emily Grant Hutchings 
+583, Barbara Lynn, Emily J
+584, s Letters, Emily Eden 
+585, Blazing The Way, Emily Inez Denny 
+586, s Country, Emily Churchill Thompson Sheets 
+587, The Olivia Letters, Emily Edson Briggs                                
+588, Emily of New Moon, Lucy Maud Montgomery 
+589, Wuthering Heights, Emily Bront
+590, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+591, Etiquette, Emily Post 
+592,  Complete, Emily Dickinson 
+593,  Third Series, Emily Dickinson 
+594, The Story Of Ireland, Emily Lawless 
+595, Entertaining Made Easy, Emily Rose Burt 
+596, Our Catholic Heritage in English Literature, Emily Hickey 
+597,  The History of Emily Montague, Frances Brooke 
+598, s Delight, Emily Mayer Higgins 
+599,  Woman as Decoration, Emily Burbank 
+600, Suzanna Stirs the Fire, Emily Calvin Blake 
+601, s Daughter, Emily Sarah Holt 
+602, The White Lady of Hazelwood, Emily Sarah Holt 
+603, The White Rose of Langley, Emily Sarah Holt 
+604,  Mistress Margery, Emily Sarah Holt 
+605, The Well in the Desert, Emily Sarah Holt 
+606, Our Little Lady, Emily Sarah Holt 
+607, s Daughters, Emily Sarah Holt 
+608, A Forgotten Hero, Emily Sarah Holt 
+609, Clare Avery, Emily Sarah Holt 
+610,  Lodge, Emily Sarah Holt 
+611, The Gold that Glitters, Emily Sarah Holt 
+612, s Well, Emily Sarah Holt 
+613, Through the Malay Archipelago, Emily Richings 
+614,  A Poem XXI, Emily Dickinson 
+615, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+616, It Might Have Been, Emily Sarah Holt 
+617, s Harvest, Emily Sarah Holt 
+618,  cat, Emily Neville 
+619, s Sake, Emily Sarah Holt 
+620, An Ohio Woman in the Philippines, Emily Bronson Conger 
+621, Robin Tremayne, Emily Sarah Holt 
+622, One Snowy Night, Emily Sarah Holt 
+623, In Convent Walls, Emily Sarah Holt 
+624, Jap Herron, Emily Grant Hutchings 
+625, Barbara Lynn, Emily J
+626, s Letters, Emily Eden 
+627, Blazing The Way, Emily Inez Denny 
+628, s Country, Emily Churchill Thompson Sheets 
+629, The Olivia Letters, Emily Edson Briggs                                
+630, Emily of New Moon, Lucy Maud Montgomery 
+631, Wuthering Heights, Emily Bront
+632, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+633, Etiquette, Emily Post 
+634,  Complete, Emily Dickinson 
+635,  Third Series, Emily Dickinson 
+636, The Story Of Ireland, Emily Lawless 
+637, Entertaining Made Easy, Emily Rose Burt 
+638, Our Catholic Heritage in English Literature, Emily Hickey 
+639,  The History of Emily Montague, Frances Brooke 
+640, s Delight, Emily Mayer Higgins 
+641,  Woman as Decoration, Emily Burbank 
+642, Suzanna Stirs the Fire, Emily Calvin Blake 
+643, s Daughter, Emily Sarah Holt 
+644, The White Lady of Hazelwood, Emily Sarah Holt 
+645, The White Rose of Langley, Emily Sarah Holt 
+646,  Mistress Margery, Emily Sarah Holt 
+647, The Well in the Desert, Emily Sarah Holt 
+648, Our Little Lady, Emily Sarah Holt 
+649, s Daughters, Emily Sarah Holt 
+650, A Forgotten Hero, Emily Sarah Holt 
+651, Clare Avery, Emily Sarah Holt 
+652,  Lodge, Emily Sarah Holt 
+653, The Gold that Glitters, Emily Sarah Holt 
+654, s Well, Emily Sarah Holt 
+655, Through the Malay Archipelago, Emily Richings 
+656,  A Poem XXI, Emily Dickinson 
+657, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+658, It Might Have Been, Emily Sarah Holt 
+659, s Harvest, Emily Sarah Holt 
+660,  cat, Emily Neville 
+661, s Sake, Emily Sarah Holt 
+662, An Ohio Woman in the Philippines, Emily Bronson Conger 
+663, Robin Tremayne, Emily Sarah Holt 
+664, One Snowy Night, Emily Sarah Holt 
+665, In Convent Walls, Emily Sarah Holt 
+666, Jap Herron, Emily Grant Hutchings 
+667, Barbara Lynn, Emily J
+668, s Letters, Emily Eden 
+669, Blazing The Way, Emily Inez Denny 
+670, s Country, Emily Churchill Thompson Sheets 
+671, The Olivia Letters, Emily Edson Briggs                                
+672, Emily of New Moon, Lucy Maud Montgomery 
+673, Wuthering Heights, Emily Bront
+674, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+675, Etiquette, Emily Post 
+676,  Complete, Emily Dickinson 
+677,  Third Series, Emily Dickinson 
+678, The Story Of Ireland, Emily Lawless 
+679, Entertaining Made Easy, Emily Rose Burt 
+680, Our Catholic Heritage in English Literature, Emily Hickey 
+681,  The History of Emily Montague, Frances Brooke 
+682, s Delight, Emily Mayer Higgins 
+683,  Woman as Decoration, Emily Burbank 
+684, Suzanna Stirs the Fire, Emily Calvin Blake 
+685, s Daughter, Emily Sarah Holt 
+686, The White Lady of Hazelwood, Emily Sarah Holt 
+687, The White Rose of Langley, Emily Sarah Holt 
+688,  Mistress Margery, Emily Sarah Holt 
+689, The Well in the Desert, Emily Sarah Holt 
+690, Our Little Lady, Emily Sarah Holt 
+691, s Daughters, Emily Sarah Holt 
+692, A Forgotten Hero, Emily Sarah Holt 
+693, Clare Avery, Emily Sarah Holt 
+694,  Lodge, Emily Sarah Holt 
+695, The Gold that Glitters, Emily Sarah Holt 
+696, s Well, Emily Sarah Holt 
+697, Through the Malay Archipelago, Emily Richings 
+698,  A Poem XXI, Emily Dickinson 
+699, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+700, It Might Have Been, Emily Sarah Holt 
+701, s Harvest, Emily Sarah Holt 
+702,  cat, Emily Neville 
+703, s Sake, Emily Sarah Holt 
+704, An Ohio Woman in the Philippines, Emily Bronson Conger 
+705, Robin Tremayne, Emily Sarah Holt 
+706, One Snowy Night, Emily Sarah Holt 
+707, In Convent Walls, Emily Sarah Holt 
+708, Jap Herron, Emily Grant Hutchings 
+709, Barbara Lynn, Emily J
+710, s Letters, Emily Eden 
+711, Blazing The Way, Emily Inez Denny 
+712, s Country, Emily Churchill Thompson Sheets 
+713, The Olivia Letters, Emily Edson Briggs                                
+714, Emily of New Moon, Lucy Maud Montgomery 
+715, Wuthering Heights, Emily Bront
+716, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+717, Etiquette, Emily Post 
+718,  Complete, Emily Dickinson 
+719,  Third Series, Emily Dickinson 
+720, The Story Of Ireland, Emily Lawless 
+721, Entertaining Made Easy, Emily Rose Burt 
+722, Our Catholic Heritage in English Literature, Emily Hickey 
+723,  The History of Emily Montague, Frances Brooke 
+724, s Delight, Emily Mayer Higgins 
+725,  Woman as Decoration, Emily Burbank 
+726, Suzanna Stirs the Fire, Emily Calvin Blake 
+727, s Daughter, Emily Sarah Holt 
+728, The White Lady of Hazelwood, Emily Sarah Holt 
+729, The White Rose of Langley, Emily Sarah Holt 
+730,  Mistress Margery, Emily Sarah Holt 
+731, The Well in the Desert, Emily Sarah Holt 
+732, Our Little Lady, Emily Sarah Holt 
+733, s Daughters, Emily Sarah Holt 
+734, A Forgotten Hero, Emily Sarah Holt 
+735, Clare Avery, Emily Sarah Holt 
+736,  Lodge, Emily Sarah Holt 
+737, The Gold that Glitters, Emily Sarah Holt 
+738, s Well, Emily Sarah Holt 
+739, Through the Malay Archipelago, Emily Richings 
+740,  A Poem XXI, Emily Dickinson 
+741, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+742, It Might Have Been, Emily Sarah Holt 
+743, s Harvest, Emily Sarah Holt 
+744,  cat, Emily Neville 
+745, s Sake, Emily Sarah Holt 
+746, An Ohio Woman in the Philippines, Emily Bronson Conger 
+747, Robin Tremayne, Emily Sarah Holt 
+748, One Snowy Night, Emily Sarah Holt 
+749, In Convent Walls, Emily Sarah Holt 
+750, Jap Herron, Emily Grant Hutchings 
+751, Barbara Lynn, Emily J
+752, s Letters, Emily Eden 
+753, Blazing The Way, Emily Inez Denny 
+754, s Country, Emily Churchill Thompson Sheets 
+755, The Olivia Letters, Emily Edson Briggs                                
+756, Emily of New Moon, Lucy Maud Montgomery 
+757, Wuthering Heights, Emily Bront
+758, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+759, Etiquette, Emily Post 
+760,  Complete, Emily Dickinson 
+761,  Third Series, Emily Dickinson 
+762, The Story Of Ireland, Emily Lawless 
+763, Entertaining Made Easy, Emily Rose Burt 
+764, Our Catholic Heritage in English Literature, Emily Hickey 
+765,  The History of Emily Montague, Frances Brooke 
+766, s Delight, Emily Mayer Higgins 
+767,  Woman as Decoration, Emily Burbank 
+768, Suzanna Stirs the Fire, Emily Calvin Blake 
+769, s Daughter, Emily Sarah Holt 
+770, The White Lady of Hazelwood, Emily Sarah Holt 
+771, The White Rose of Langley, Emily Sarah Holt 
+772,  Mistress Margery, Emily Sarah Holt 
+773, The Well in the Desert, Emily Sarah Holt 
+774, Our Little Lady, Emily Sarah Holt 
+775, s Daughters, Emily Sarah Holt 
+776, A Forgotten Hero, Emily Sarah Holt 
+777, Clare Avery, Emily Sarah Holt 
+778,  Lodge, Emily Sarah Holt 
+779, The Gold that Glitters, Emily Sarah Holt 
+780, s Well, Emily Sarah Holt 
+781, Through the Malay Archipelago, Emily Richings 
+782,  A Poem XXI, Emily Dickinson 
+783, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+784, It Might Have Been, Emily Sarah Holt 
+785, s Harvest, Emily Sarah Holt 
+786,  cat, Emily Neville 
+787, s Sake, Emily Sarah Holt 
+788, An Ohio Woman in the Philippines, Emily Bronson Conger 
+789, Robin Tremayne, Emily Sarah Holt 
+790, One Snowy Night, Emily Sarah Holt 
+791, In Convent Walls, Emily Sarah Holt 
+792, Jap Herron, Emily Grant Hutchings 
+793, Barbara Lynn, Emily J
+794, s Letters, Emily Eden 
+795, Blazing The Way, Emily Inez Denny 
+796, s Country, Emily Churchill Thompson Sheets 
+797, The Olivia Letters, Emily Edson Briggs                                
+798, Emily of New Moon, Lucy Maud Montgomery 
+799, Wuthering Heights, Emily Bront
+800, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+801, Etiquette, Emily Post 
+802,  Complete, Emily Dickinson 
+803,  Third Series, Emily Dickinson 
+804, The Story Of Ireland, Emily Lawless 
+805, Entertaining Made Easy, Emily Rose Burt 
+806, Our Catholic Heritage in English Literature, Emily Hickey 
+807,  The History of Emily Montague, Frances Brooke 
+808, s Delight, Emily Mayer Higgins 
+809,  Woman as Decoration, Emily Burbank 
+810, Suzanna Stirs the Fire, Emily Calvin Blake 
+811, s Daughter, Emily Sarah Holt 
+812, The White Lady of Hazelwood, Emily Sarah Holt 
+813, The White Rose of Langley, Emily Sarah Holt 
+814,  Mistress Margery, Emily Sarah Holt 
+815, The Well in the Desert, Emily Sarah Holt 
+816, Our Little Lady, Emily Sarah Holt 
+817, s Daughters, Emily Sarah Holt 
+818, A Forgotten Hero, Emily Sarah Holt 
+819, Clare Avery, Emily Sarah Holt 
+820,  Lodge, Emily Sarah Holt 
+821, The Gold that Glitters, Emily Sarah Holt 
+822, s Well, Emily Sarah Holt 
+823, Through the Malay Archipelago, Emily Richings 
+824,  A Poem XXI, Emily Dickinson 
+825, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+826, It Might Have Been, Emily Sarah Holt 
+827, s Harvest, Emily Sarah Holt 
+828,  cat, Emily Neville 
+829, s Sake, Emily Sarah Holt 
+830, An Ohio Woman in the Philippines, Emily Bronson Conger 
+831, Robin Tremayne, Emily Sarah Holt 
+832, One Snowy Night, Emily Sarah Holt 
+833, In Convent Walls, Emily Sarah Holt 
+834, Jap Herron, Emily Grant Hutchings 
+835, Barbara Lynn, Emily J
+836, s Letters, Emily Eden 
+837, Blazing The Way, Emily Inez Denny 
+838, s Country, Emily Churchill Thompson Sheets 
+839, The Olivia Letters, Emily Edson Briggs                                
+840, Emily of New Moon, Lucy Maud Montgomery 
+841, Wuthering Heights, Emily Bront
+842, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+843, Etiquette, Emily Post 
+844,  Complete, Emily Dickinson 
+845,  Third Series, Emily Dickinson 
+846, The Story Of Ireland, Emily Lawless 
+847, Entertaining Made Easy, Emily Rose Burt 
+848, Our Catholic Heritage in English Literature, Emily Hickey 
+849,  The History of Emily Montague, Frances Brooke 
+850, s Delight, Emily Mayer Higgins 
+851,  Woman as Decoration, Emily Burbank 
+852, Suzanna Stirs the Fire, Emily Calvin Blake 
+853, s Daughter, Emily Sarah Holt 
+854, The White Lady of Hazelwood, Emily Sarah Holt 
+855, The White Rose of Langley, Emily Sarah Holt 
+856,  Mistress Margery, Emily Sarah Holt 
+857, The Well in the Desert, Emily Sarah Holt 
+858, Our Little Lady, Emily Sarah Holt 
+859, s Daughters, Emily Sarah Holt 
+860, A Forgotten Hero, Emily Sarah Holt 
+861, Clare Avery, Emily Sarah Holt 
+862,  Lodge, Emily Sarah Holt 
+863, The Gold that Glitters, Emily Sarah Holt 
+864, s Well, Emily Sarah Holt 
+865, Through the Malay Archipelago, Emily Richings 
+866,  A Poem XXI, Emily Dickinson 
+867, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+868, It Might Have Been, Emily Sarah Holt 
+869, s Harvest, Emily Sarah Holt 
+870,  cat, Emily Neville 
+871, s Sake, Emily Sarah Holt 
+872, An Ohio Woman in the Philippines, Emily Bronson Conger 
+873, Robin Tremayne, Emily Sarah Holt 
+874, One Snowy Night, Emily Sarah Holt 
+875, In Convent Walls, Emily Sarah Holt 
+876, Jap Herron, Emily Grant Hutchings 
+877, Barbara Lynn, Emily J
+878, s Letters, Emily Eden 
+879, Blazing The Way, Emily Inez Denny 
+880, s Country, Emily Churchill Thompson Sheets 
+881, The Olivia Letters, Emily Edson Briggs                                
+882, Emily of New Moon, Lucy Maud Montgomery 
+883, Wuthering Heights, Emily Bront
+884, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+885, Etiquette, Emily Post 
+886,  Complete, Emily Dickinson 
+887,  Third Series, Emily Dickinson 
+888, The Story Of Ireland, Emily Lawless 
+889, Entertaining Made Easy, Emily Rose Burt 
+890, Our Catholic Heritage in English Literature, Emily Hickey 
+891,  The History of Emily Montague, Frances Brooke 
+892, s Delight, Emily Mayer Higgins 
+893,  Woman as Decoration, Emily Burbank 
+894, Suzanna Stirs the Fire, Emily Calvin Blake 
+895, s Daughter, Emily Sarah Holt 
+896, The White Lady of Hazelwood, Emily Sarah Holt 
+897, The White Rose of Langley, Emily Sarah Holt 
+898,  Mistress Margery, Emily Sarah Holt 
+899, The Well in the Desert, Emily Sarah Holt 
+900, Our Little Lady, Emily Sarah Holt 
+901, s Daughters, Emily Sarah Holt 
+902, A Forgotten Hero, Emily Sarah Holt 
+903, Clare Avery, Emily Sarah Holt 
+904,  Lodge, Emily Sarah Holt 
+905, The Gold that Glitters, Emily Sarah Holt 
+906, s Well, Emily Sarah Holt 
+907, Through the Malay Archipelago, Emily Richings 
+908,  A Poem XXI, Emily Dickinson 
+909, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+910, It Might Have Been, Emily Sarah Holt 
+911, s Harvest, Emily Sarah Holt 
+912,  cat, Emily Neville 
+913, s Sake, Emily Sarah Holt 
+914, An Ohio Woman in the Philippines, Emily Bronson Conger 
+915, Robin Tremayne, Emily Sarah Holt 
+916, One Snowy Night, Emily Sarah Holt 
+917, In Convent Walls, Emily Sarah Holt 
+918, Jap Herron, Emily Grant Hutchings 
+919, Barbara Lynn, Emily J
+920, s Letters, Emily Eden 
+921, Blazing The Way, Emily Inez Denny 
+922, s Country, Emily Churchill Thompson Sheets 
+923, The Olivia Letters, Emily Edson Briggs                                
+924, Emily of New Moon, Lucy Maud Montgomery 
+925, Wuthering Heights, Emily Bront
+926, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+927, Etiquette, Emily Post 
+928,  Complete, Emily Dickinson 
+929,  Third Series, Emily Dickinson 
+930, The Story Of Ireland, Emily Lawless 
+931, Entertaining Made Easy, Emily Rose Burt 
+932, Our Catholic Heritage in English Literature, Emily Hickey 
+933,  The History of Emily Montague, Frances Brooke 
+934, s Delight, Emily Mayer Higgins 
+935,  Woman as Decoration, Emily Burbank 
+936, Suzanna Stirs the Fire, Emily Calvin Blake 
+937, s Daughter, Emily Sarah Holt 
+938, The White Lady of Hazelwood, Emily Sarah Holt 
+939, The White Rose of Langley, Emily Sarah Holt 
+940,  Mistress Margery, Emily Sarah Holt 
+941, The Well in the Desert, Emily Sarah Holt 
+942, Our Little Lady, Emily Sarah Holt 
+943, s Daughters, Emily Sarah Holt 
+944, A Forgotten Hero, Emily Sarah Holt 
+945, Clare Avery, Emily Sarah Holt 
+946,  Lodge, Emily Sarah Holt 
+947, The Gold that Glitters, Emily Sarah Holt 
+948, s Well, Emily Sarah Holt 
+949, Through the Malay Archipelago, Emily Richings 
+950,  A Poem XXI, Emily Dickinson 
+951, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+952, It Might Have Been, Emily Sarah Holt 
+953, s Harvest, Emily Sarah Holt 
+954,  cat, Emily Neville 
+955, s Sake, Emily Sarah Holt 
+956, An Ohio Woman in the Philippines, Emily Bronson Conger 
+957, Robin Tremayne, Emily Sarah Holt 
+958, One Snowy Night, Emily Sarah Holt 
+959, In Convent Walls, Emily Sarah Holt 
+960, Jap Herron, Emily Grant Hutchings 
+961, Barbara Lynn, Emily J
+962, s Letters, Emily Eden 
+963, Blazing The Way, Emily Inez Denny 
+964, s Country, Emily Churchill Thompson Sheets 
+965, The Olivia Letters, Emily Edson Briggs                                
+966, Emily of New Moon, Lucy Maud Montgomery 
+967, Wuthering Heights, Emily Bront
+968, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+969, Etiquette, Emily Post 
+970,  Complete, Emily Dickinson 
+971,  Third Series, Emily Dickinson 
+972, The Story Of Ireland, Emily Lawless 
+973, Entertaining Made Easy, Emily Rose Burt 
+974, Our Catholic Heritage in English Literature, Emily Hickey 
+975,  The History of Emily Montague, Frances Brooke 
+976, s Delight, Emily Mayer Higgins 
+977,  Woman as Decoration, Emily Burbank 
+978, Suzanna Stirs the Fire, Emily Calvin Blake 
+979, s Daughter, Emily Sarah Holt 
+980, The White Lady of Hazelwood, Emily Sarah Holt 
+981, The White Rose of Langley, Emily Sarah Holt 
+982,  Mistress Margery, Emily Sarah Holt 
+983, The Well in the Desert, Emily Sarah Holt 
+984, Our Little Lady, Emily Sarah Holt 
+985, s Daughters, Emily Sarah Holt 
+986, A Forgotten Hero, Emily Sarah Holt 
+987, Clare Avery, Emily Sarah Holt 
+988,  Lodge, Emily Sarah Holt 
+989, The Gold that Glitters, Emily Sarah Holt 
+990, s Well, Emily Sarah Holt 
+991, Through the Malay Archipelago, Emily Richings 
+992,  A Poem XXI, Emily Dickinson 
+993, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+994, It Might Have Been, Emily Sarah Holt 
+995, s Harvest, Emily Sarah Holt 
+996,  cat, Emily Neville 
+997, s Sake, Emily Sarah Holt 
+998, An Ohio Woman in the Philippines, Emily Bronson Conger 
+999, Robin Tremayne, Emily Sarah Holt 
+1000, One Snowy Night, Emily Sarah Holt 
+1001, In Convent Walls, Emily Sarah Holt 
+1002, Jap Herron, Emily Grant Hutchings 
+1003, Barbara Lynn, Emily J
+1004, s Letters, Emily Eden 
+1005, Blazing The Way, Emily Inez Denny 
+1006, s Country, Emily Churchill Thompson Sheets 
+1007, The Olivia Letters, Emily Edson Briggs                                
+1008, Emily of New Moon, Lucy Maud Montgomery 
+1009, Wuthering Heights, Emily Bront
+1010, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1011, Etiquette, Emily Post 
+1012,  Complete, Emily Dickinson 
+1013,  Third Series, Emily Dickinson 
+1014, The Story Of Ireland, Emily Lawless 
+1015, Entertaining Made Easy, Emily Rose Burt 
+1016, Our Catholic Heritage in English Literature, Emily Hickey 
+1017,  The History of Emily Montague, Frances Brooke 
+1018, s Delight, Emily Mayer Higgins 
+1019,  Woman as Decoration, Emily Burbank 
+1020, Suzanna Stirs the Fire, Emily Calvin Blake 
+1021, s Daughter, Emily Sarah Holt 
+1022, The White Lady of Hazelwood, Emily Sarah Holt 
+1023, The White Rose of Langley, Emily Sarah Holt 
+1024,  Mistress Margery, Emily Sarah Holt 
+1025, The Well in the Desert, Emily Sarah Holt 
+1026, Our Little Lady, Emily Sarah Holt 
+1027, s Daughters, Emily Sarah Holt 
+1028, A Forgotten Hero, Emily Sarah Holt 
+1029, Clare Avery, Emily Sarah Holt 
+1030,  Lodge, Emily Sarah Holt 
+1031, The Gold that Glitters, Emily Sarah Holt 
+1032, s Well, Emily Sarah Holt 
+1033, Through the Malay Archipelago, Emily Richings 
+1034,  A Poem XXI, Emily Dickinson 
+1035, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1036, It Might Have Been, Emily Sarah Holt 
+1037, s Harvest, Emily Sarah Holt 
+1038,  cat, Emily Neville 
+1039, s Sake, Emily Sarah Holt 
+1040, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1041, Robin Tremayne, Emily Sarah Holt 
+1042, One Snowy Night, Emily Sarah Holt 
+1043, In Convent Walls, Emily Sarah Holt 
+1044, Jap Herron, Emily Grant Hutchings 
+1045, Barbara Lynn, Emily J
+1046, s Letters, Emily Eden 
+1047, Blazing The Way, Emily Inez Denny 
+1048, s Country, Emily Churchill Thompson Sheets 
+1049, The Olivia Letters, Emily Edson Briggs                                
+1050, Emily of New Moon, Lucy Maud Montgomery 
+1051, Wuthering Heights, Emily Bront
+1052, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1053, Etiquette, Emily Post 
+1054,  Complete, Emily Dickinson 
+1055,  Third Series, Emily Dickinson 
+1056, The Story Of Ireland, Emily Lawless 
+1057, Entertaining Made Easy, Emily Rose Burt 
+1058, Our Catholic Heritage in English Literature, Emily Hickey 
+1059,  The History of Emily Montague, Frances Brooke 
+1060, s Delight, Emily Mayer Higgins 
+1061,  Woman as Decoration, Emily Burbank 
+1062, Suzanna Stirs the Fire, Emily Calvin Blake 
+1063, s Daughter, Emily Sarah Holt 
+1064, The White Lady of Hazelwood, Emily Sarah Holt 
+1065, The White Rose of Langley, Emily Sarah Holt 
+1066,  Mistress Margery, Emily Sarah Holt 
+1067, The Well in the Desert, Emily Sarah Holt 
+1068, Our Little Lady, Emily Sarah Holt 
+1069, s Daughters, Emily Sarah Holt 
+1070, A Forgotten Hero, Emily Sarah Holt 
+1071, Clare Avery, Emily Sarah Holt 
+1072,  Lodge, Emily Sarah Holt 
+1073, The Gold that Glitters, Emily Sarah Holt 
+1074, s Well, Emily Sarah Holt 
+1075, Through the Malay Archipelago, Emily Richings 
+1076,  A Poem XXI, Emily Dickinson 
+1077, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1078, It Might Have Been, Emily Sarah Holt 
+1079, s Harvest, Emily Sarah Holt 
+1080,  cat, Emily Neville 
+1081, s Sake, Emily Sarah Holt 
+1082, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1083, Robin Tremayne, Emily Sarah Holt 
+1084, One Snowy Night, Emily Sarah Holt 
+1085, In Convent Walls, Emily Sarah Holt 
+1086, Jap Herron, Emily Grant Hutchings 
+1087, Barbara Lynn, Emily J
+1088, s Letters, Emily Eden 
+1089, Blazing The Way, Emily Inez Denny 
+1090, s Country, Emily Churchill Thompson Sheets 
+1091, The Olivia Letters, Emily Edson Briggs                                
+1092, Emily of New Moon, Lucy Maud Montgomery 
+1093, Wuthering Heights, Emily Bront
+1094, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1095, Etiquette, Emily Post 
+1096,  Complete, Emily Dickinson 
+1097,  Third Series, Emily Dickinson 
+1098, The Story Of Ireland, Emily Lawless 
+1099, Entertaining Made Easy, Emily Rose Burt 
+1100, Our Catholic Heritage in English Literature, Emily Hickey 
+1101,  The History of Emily Montague, Frances Brooke 
+1102, s Delight, Emily Mayer Higgins 
+1103,  Woman as Decoration, Emily Burbank 
+1104, Suzanna Stirs the Fire, Emily Calvin Blake 
+1105, s Daughter, Emily Sarah Holt 
+1106, The White Lady of Hazelwood, Emily Sarah Holt 
+1107, The White Rose of Langley, Emily Sarah Holt 
+1108,  Mistress Margery, Emily Sarah Holt 
+1109, The Well in the Desert, Emily Sarah Holt 
+1110, Our Little Lady, Emily Sarah Holt 
+1111, s Daughters, Emily Sarah Holt 
+1112, A Forgotten Hero, Emily Sarah Holt 
+1113, Clare Avery, Emily Sarah Holt 
+1114,  Lodge, Emily Sarah Holt 
+1115, The Gold that Glitters, Emily Sarah Holt 
+1116, s Well, Emily Sarah Holt 
+1117, Through the Malay Archipelago, Emily Richings 
+1118,  A Poem XXI, Emily Dickinson 
+1119, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1120, It Might Have Been, Emily Sarah Holt 
+1121, s Harvest, Emily Sarah Holt 
+1122,  cat, Emily Neville 
+1123, s Sake, Emily Sarah Holt 
+1124, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1125, Robin Tremayne, Emily Sarah Holt 
+1126, One Snowy Night, Emily Sarah Holt 
+1127, In Convent Walls, Emily Sarah Holt 
+1128, Jap Herron, Emily Grant Hutchings 
+1129, Barbara Lynn, Emily J
+1130, s Letters, Emily Eden 
+1131, Blazing The Way, Emily Inez Denny 
+1132, s Country, Emily Churchill Thompson Sheets 
+1133, The Olivia Letters, Emily Edson Briggs                                
+1134, Emily of New Moon, Lucy Maud Montgomery 
+1135, Wuthering Heights, Emily Bront
+1136, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1137, Etiquette, Emily Post 
+1138,  Complete, Emily Dickinson 
+1139,  Third Series, Emily Dickinson 
+1140, The Story Of Ireland, Emily Lawless 
+1141, Entertaining Made Easy, Emily Rose Burt 
+1142, Our Catholic Heritage in English Literature, Emily Hickey 
+1143,  The History of Emily Montague, Frances Brooke 
+1144, s Delight, Emily Mayer Higgins 
+1145,  Woman as Decoration, Emily Burbank 
+1146, Suzanna Stirs the Fire, Emily Calvin Blake 
+1147, s Daughter, Emily Sarah Holt 
+1148, The White Lady of Hazelwood, Emily Sarah Holt 
+1149, The White Rose of Langley, Emily Sarah Holt 
+1150,  Mistress Margery, Emily Sarah Holt 
+1151, The Well in the Desert, Emily Sarah Holt 
+1152, Our Little Lady, Emily Sarah Holt 
+1153, s Daughters, Emily Sarah Holt 
+1154, A Forgotten Hero, Emily Sarah Holt 
+1155, Clare Avery, Emily Sarah Holt 
+1156,  Lodge, Emily Sarah Holt 
+1157, The Gold that Glitters, Emily Sarah Holt 
+1158, s Well, Emily Sarah Holt 
+1159, Through the Malay Archipelago, Emily Richings 
+1160,  A Poem XXI, Emily Dickinson 
+1161, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1162, It Might Have Been, Emily Sarah Holt 
+1163, s Harvest, Emily Sarah Holt 
+1164,  cat, Emily Neville 
+1165, s Sake, Emily Sarah Holt 
+1166, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1167, Robin Tremayne, Emily Sarah Holt 
+1168, One Snowy Night, Emily Sarah Holt 
+1169, In Convent Walls, Emily Sarah Holt 
+1170, Jap Herron, Emily Grant Hutchings 
+1171, Barbara Lynn, Emily J
+1172, s Letters, Emily Eden 
+1173, Blazing The Way, Emily Inez Denny 
+1174, s Country, Emily Churchill Thompson Sheets 
+1175, The Olivia Letters, Emily Edson Briggs                                
+1176, Emily of New Moon, Lucy Maud Montgomery 
+1177, Wuthering Heights, Emily Bront
+1178, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1179, Etiquette, Emily Post 
+1180,  Complete, Emily Dickinson 
+1181,  Third Series, Emily Dickinson 
+1182, The Story Of Ireland, Emily Lawless 
+1183, Entertaining Made Easy, Emily Rose Burt 
+1184, Our Catholic Heritage in English Literature, Emily Hickey 
+1185,  The History of Emily Montague, Frances Brooke 
+1186, s Delight, Emily Mayer Higgins 
+1187,  Woman as Decoration, Emily Burbank 
+1188, Suzanna Stirs the Fire, Emily Calvin Blake 
+1189, s Daughter, Emily Sarah Holt 
+1190, The White Lady of Hazelwood, Emily Sarah Holt 
+1191, The White Rose of Langley, Emily Sarah Holt 
+1192,  Mistress Margery, Emily Sarah Holt 
+1193, The Well in the Desert, Emily Sarah Holt 
+1194, Our Little Lady, Emily Sarah Holt 
+1195, s Daughters, Emily Sarah Holt 
+1196, A Forgotten Hero, Emily Sarah Holt 
+1197, Clare Avery, Emily Sarah Holt 
+1198,  Lodge, Emily Sarah Holt 
+1199, The Gold that Glitters, Emily Sarah Holt 
+1200, s Well, Emily Sarah Holt 
+1201, Through the Malay Archipelago, Emily Richings 
+1202,  A Poem XXI, Emily Dickinson 
+1203, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1204, It Might Have Been, Emily Sarah Holt 
+1205, s Harvest, Emily Sarah Holt 
+1206,  cat, Emily Neville 
+1207, s Sake, Emily Sarah Holt 
+1208, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1209, Robin Tremayne, Emily Sarah Holt 
+1210, One Snowy Night, Emily Sarah Holt 
+1211, In Convent Walls, Emily Sarah Holt 
+1212, Jap Herron, Emily Grant Hutchings 
+1213, Barbara Lynn, Emily J
+1214, s Letters, Emily Eden 
+1215, Blazing The Way, Emily Inez Denny 
+1216, s Country, Emily Churchill Thompson Sheets 
+1217, The Olivia Letters, Emily Edson Briggs                                
+1218, Emily of New Moon, Lucy Maud Montgomery 
+1219, Wuthering Heights, Emily Bront
+1220, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1221, Etiquette, Emily Post 
+1222,  Complete, Emily Dickinson 
+1223,  Third Series, Emily Dickinson 
+1224, The Story Of Ireland, Emily Lawless 
+1225, Entertaining Made Easy, Emily Rose Burt 
+1226, Our Catholic Heritage in English Literature, Emily Hickey 
+1227,  The History of Emily Montague, Frances Brooke 
+1228, s Delight, Emily Mayer Higgins 
+1229,  Woman as Decoration, Emily Burbank 
+1230, Suzanna Stirs the Fire, Emily Calvin Blake 
+1231, s Daughter, Emily Sarah Holt 
+1232, The White Lady of Hazelwood, Emily Sarah Holt 
+1233, The White Rose of Langley, Emily Sarah Holt 
+1234,  Mistress Margery, Emily Sarah Holt 
+1235, The Well in the Desert, Emily Sarah Holt 
+1236, Our Little Lady, Emily Sarah Holt 
+1237, s Daughters, Emily Sarah Holt 
+1238, A Forgotten Hero, Emily Sarah Holt 
+1239, Clare Avery, Emily Sarah Holt 
+1240,  Lodge, Emily Sarah Holt 
+1241, The Gold that Glitters, Emily Sarah Holt 
+1242, s Well, Emily Sarah Holt 
+1243, Through the Malay Archipelago, Emily Richings 
+1244,  A Poem XXI, Emily Dickinson 
+1245, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1246, It Might Have Been, Emily Sarah Holt 
+1247, s Harvest, Emily Sarah Holt 
+1248,  cat, Emily Neville 
+1249, s Sake, Emily Sarah Holt 
+1250, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1251, Robin Tremayne, Emily Sarah Holt 
+1252, One Snowy Night, Emily Sarah Holt 
+1253, In Convent Walls, Emily Sarah Holt 
+1254, Jap Herron, Emily Grant Hutchings 
+1255, Barbara Lynn, Emily J
+1256, s Letters, Emily Eden 
+1257, Blazing The Way, Emily Inez Denny 
+1258, s Country, Emily Churchill Thompson Sheets 
+1259, The Olivia Letters, Emily Edson Briggs                                
+1260, Emily of New Moon, Lucy Maud Montgomery 
+1261, Wuthering Heights, Emily Bront
+1262, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1263, Etiquette, Emily Post 
+1264,  Complete, Emily Dickinson 
+1265,  Third Series, Emily Dickinson 
+1266, The Story Of Ireland, Emily Lawless 
+1267, Entertaining Made Easy, Emily Rose Burt 
+1268, Our Catholic Heritage in English Literature, Emily Hickey 
+1269,  The History of Emily Montague, Frances Brooke 
+1270, s Delight, Emily Mayer Higgins 
+1271,  Woman as Decoration, Emily Burbank 
+1272, Suzanna Stirs the Fire, Emily Calvin Blake 
+1273, s Daughter, Emily Sarah Holt 
+1274, The White Lady of Hazelwood, Emily Sarah Holt 
+1275, The White Rose of Langley, Emily Sarah Holt 
+1276,  Mistress Margery, Emily Sarah Holt 
+1277, The Well in the Desert, Emily Sarah Holt 
+1278, Our Little Lady, Emily Sarah Holt 
+1279, s Daughters, Emily Sarah Holt 
+1280, A Forgotten Hero, Emily Sarah Holt 
+1281, Clare Avery, Emily Sarah Holt 
+1282,  Lodge, Emily Sarah Holt 
+1283, The Gold that Glitters, Emily Sarah Holt 
+1284, s Well, Emily Sarah Holt 
+1285, Through the Malay Archipelago, Emily Richings 
+1286,  A Poem XXI, Emily Dickinson 
+1287, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1288, It Might Have Been, Emily Sarah Holt 
+1289, s Harvest, Emily Sarah Holt 
+1290,  cat, Emily Neville 
+1291, s Sake, Emily Sarah Holt 
+1292, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1293, Robin Tremayne, Emily Sarah Holt 
+1294, One Snowy Night, Emily Sarah Holt 
+1295, In Convent Walls, Emily Sarah Holt 
+1296, Jap Herron, Emily Grant Hutchings 
+1297, Barbara Lynn, Emily J
+1298, s Letters, Emily Eden 
+1299, Blazing The Way, Emily Inez Denny 
+1300, s Country, Emily Churchill Thompson Sheets 
+1301, The Olivia Letters, Emily Edson Briggs                                
+1302, Emily of New Moon, Lucy Maud Montgomery 
+1303, Wuthering Heights, Emily Bront
+1304, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1305, Etiquette, Emily Post 
+1306,  Complete, Emily Dickinson 
+1307,  Third Series, Emily Dickinson 
+1308, The Story Of Ireland, Emily Lawless 
+1309, Entertaining Made Easy, Emily Rose Burt 
+1310, Our Catholic Heritage in English Literature, Emily Hickey 
+1311,  The History of Emily Montague, Frances Brooke 
+1312, s Delight, Emily Mayer Higgins 
+1313,  Woman as Decoration, Emily Burbank 
+1314, Suzanna Stirs the Fire, Emily Calvin Blake 
+1315, s Daughter, Emily Sarah Holt 
+1316, The White Lady of Hazelwood, Emily Sarah Holt 
+1317, The White Rose of Langley, Emily Sarah Holt 
+1318,  Mistress Margery, Emily Sarah Holt 
+1319, The Well in the Desert, Emily Sarah Holt 
+1320, Our Little Lady, Emily Sarah Holt 
+1321, s Daughters, Emily Sarah Holt 
+1322, A Forgotten Hero, Emily Sarah Holt 
+1323, Clare Avery, Emily Sarah Holt 
+1324,  Lodge, Emily Sarah Holt 
+1325, The Gold that Glitters, Emily Sarah Holt 
+1326, s Well, Emily Sarah Holt 
+1327, Through the Malay Archipelago, Emily Richings 
+1328,  A Poem XXI, Emily Dickinson 
+1329, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1330, It Might Have Been, Emily Sarah Holt 
+1331, s Harvest, Emily Sarah Holt 
+1332,  cat, Emily Neville 
+1333, s Sake, Emily Sarah Holt 
+1334, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1335, Robin Tremayne, Emily Sarah Holt 
+1336, One Snowy Night, Emily Sarah Holt 
+1337, In Convent Walls, Emily Sarah Holt 
+1338, Jap Herron, Emily Grant Hutchings 
+1339, Barbara Lynn, Emily J
+1340, s Letters, Emily Eden 
+1341, Blazing The Way, Emily Inez Denny 
+1342, s Country, Emily Churchill Thompson Sheets 
+1343, The Olivia Letters, Emily Edson Briggs                                
+1344, Emily of New Moon, Lucy Maud Montgomery 
+1345, Wuthering Heights, Emily Bront
+1346, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1347, Etiquette, Emily Post 
+1348,  Complete, Emily Dickinson 
+1349,  Third Series, Emily Dickinson 
+1350, The Story Of Ireland, Emily Lawless 
+1351, Entertaining Made Easy, Emily Rose Burt 
+1352, Our Catholic Heritage in English Literature, Emily Hickey 
+1353,  The History of Emily Montague, Frances Brooke 
+1354, s Delight, Emily Mayer Higgins 
+1355,  Woman as Decoration, Emily Burbank 
+1356, Suzanna Stirs the Fire, Emily Calvin Blake 
+1357, s Daughter, Emily Sarah Holt 
+1358, The White Lady of Hazelwood, Emily Sarah Holt 
+1359, The White Rose of Langley, Emily Sarah Holt 
+1360,  Mistress Margery, Emily Sarah Holt 
+1361, The Well in the Desert, Emily Sarah Holt 
+1362, Our Little Lady, Emily Sarah Holt 
+1363, s Daughters, Emily Sarah Holt 
+1364, A Forgotten Hero, Emily Sarah Holt 
+1365, Clare Avery, Emily Sarah Holt 
+1366,  Lodge, Emily Sarah Holt 
+1367, The Gold that Glitters, Emily Sarah Holt 
+1368, s Well, Emily Sarah Holt 
+1369, Through the Malay Archipelago, Emily Richings 
+1370,  A Poem XXI, Emily Dickinson 
+1371, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1372, It Might Have Been, Emily Sarah Holt 
+1373, s Harvest, Emily Sarah Holt 
+1374,  cat, Emily Neville 
+1375, s Sake, Emily Sarah Holt 
+1376, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1377, Robin Tremayne, Emily Sarah Holt 
+1378, One Snowy Night, Emily Sarah Holt 
+1379, In Convent Walls, Emily Sarah Holt 
+1380, Jap Herron, Emily Grant Hutchings 
+1381, Barbara Lynn, Emily J
+1382, s Letters, Emily Eden 
+1383, Blazing The Way, Emily Inez Denny 
+1384, s Country, Emily Churchill Thompson Sheets 
+1385, The Olivia Letters, Emily Edson Briggs                                
+1386, Emily of New Moon, Lucy Maud Montgomery 
+1387, Wuthering Heights, Emily Bront
+1388, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1389, Etiquette, Emily Post 
+1390,  Complete, Emily Dickinson 
+1391,  Third Series, Emily Dickinson 
+1392, The Story Of Ireland, Emily Lawless 
+1393, Entertaining Made Easy, Emily Rose Burt 
+1394, Our Catholic Heritage in English Literature, Emily Hickey 
+1395,  The History of Emily Montague, Frances Brooke 
+1396, s Delight, Emily Mayer Higgins 
+1397,  Woman as Decoration, Emily Burbank 
+1398, Suzanna Stirs the Fire, Emily Calvin Blake 
+1399, s Daughter, Emily Sarah Holt 
+1400, The White Lady of Hazelwood, Emily Sarah Holt 
+1401, The White Rose of Langley, Emily Sarah Holt 
+1402,  Mistress Margery, Emily Sarah Holt 
+1403, The Well in the Desert, Emily Sarah Holt 
+1404, Our Little Lady, Emily Sarah Holt 
+1405, s Daughters, Emily Sarah Holt 
+1406, A Forgotten Hero, Emily Sarah Holt 
+1407, Clare Avery, Emily Sarah Holt 
+1408,  Lodge, Emily Sarah Holt 
+1409, The Gold that Glitters, Emily Sarah Holt 
+1410, s Well, Emily Sarah Holt 
+1411, Through the Malay Archipelago, Emily Richings 
+1412,  A Poem XXI, Emily Dickinson 
+1413, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1414, It Might Have Been, Emily Sarah Holt 
+1415, s Harvest, Emily Sarah Holt 
+1416,  cat, Emily Neville 
+1417, s Sake, Emily Sarah Holt 
+1418, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1419, Robin Tremayne, Emily Sarah Holt 
+1420, One Snowy Night, Emily Sarah Holt 
+1421, In Convent Walls, Emily Sarah Holt 
+1422, Jap Herron, Emily Grant Hutchings 
+1423, Barbara Lynn, Emily J
+1424, s Letters, Emily Eden 
+1425, Blazing The Way, Emily Inez Denny 
+1426, s Country, Emily Churchill Thompson Sheets 
+1427, The Olivia Letters, Emily Edson Briggs                                
+1428, Emily of New Moon, Lucy Maud Montgomery 
+1429, Wuthering Heights, Emily Bront
+1430, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1431, Etiquette, Emily Post 
+1432,  Complete, Emily Dickinson 
+1433,  Third Series, Emily Dickinson 
+1434, The Story Of Ireland, Emily Lawless 
+1435, Entertaining Made Easy, Emily Rose Burt 
+1436, Our Catholic Heritage in English Literature, Emily Hickey 
+1437,  The History of Emily Montague, Frances Brooke 
+1438, s Delight, Emily Mayer Higgins 
+1439,  Woman as Decoration, Emily Burbank 
+1440, Suzanna Stirs the Fire, Emily Calvin Blake 
+1441, s Daughter, Emily Sarah Holt 
+1442, The White Lady of Hazelwood, Emily Sarah Holt 
+1443, The White Rose of Langley, Emily Sarah Holt 
+1444,  Mistress Margery, Emily Sarah Holt 
+1445, The Well in the Desert, Emily Sarah Holt 
+1446, Our Little Lady, Emily Sarah Holt 
+1447, s Daughters, Emily Sarah Holt 
+1448, A Forgotten Hero, Emily Sarah Holt 
+1449, Clare Avery, Emily Sarah Holt 
+1450,  Lodge, Emily Sarah Holt 
+1451, The Gold that Glitters, Emily Sarah Holt 
+1452, s Well, Emily Sarah Holt 
+1453, Through the Malay Archipelago, Emily Richings 
+1454,  A Poem XXI, Emily Dickinson 
+1455, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1456, It Might Have Been, Emily Sarah Holt 
+1457, s Harvest, Emily Sarah Holt 
+1458,  cat, Emily Neville 
+1459, s Sake, Emily Sarah Holt 
+1460, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1461, Robin Tremayne, Emily Sarah Holt 
+1462, One Snowy Night, Emily Sarah Holt 
+1463, In Convent Walls, Emily Sarah Holt 
+1464, Jap Herron, Emily Grant Hutchings 
+1465, Barbara Lynn, Emily J
+1466, s Letters, Emily Eden 
+1467, Blazing The Way, Emily Inez Denny 
+1468, s Country, Emily Churchill Thompson Sheets 
+1469, The Olivia Letters, Emily Edson Briggs                                
+1470, Emily of New Moon, Lucy Maud Montgomery 
+1471, Wuthering Heights, Emily Bront
+1472, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1473, Etiquette, Emily Post 
+1474,  Complete, Emily Dickinson 
+1475,  Third Series, Emily Dickinson 
+1476, The Story Of Ireland, Emily Lawless 
+1477, Entertaining Made Easy, Emily Rose Burt 
+1478, Our Catholic Heritage in English Literature, Emily Hickey 
+1479,  The History of Emily Montague, Frances Brooke 
+1480, s Delight, Emily Mayer Higgins 
+1481,  Woman as Decoration, Emily Burbank 
+1482, Suzanna Stirs the Fire, Emily Calvin Blake 
+1483, s Daughter, Emily Sarah Holt 
+1484, The White Lady of Hazelwood, Emily Sarah Holt 
+1485, The White Rose of Langley, Emily Sarah Holt 
+1486,  Mistress Margery, Emily Sarah Holt 
+1487, The Well in the Desert, Emily Sarah Holt 
+1488, Our Little Lady, Emily Sarah Holt 
+1489, s Daughters, Emily Sarah Holt 
+1490, A Forgotten Hero, Emily Sarah Holt 
+1491, Clare Avery, Emily Sarah Holt 
+1492,  Lodge, Emily Sarah Holt 
+1493, The Gold that Glitters, Emily Sarah Holt 
+1494, s Well, Emily Sarah Holt 
+1495, Through the Malay Archipelago, Emily Richings 
+1496,  A Poem XXI, Emily Dickinson 
+1497, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1498, It Might Have Been, Emily Sarah Holt 
+1499, s Harvest, Emily Sarah Holt 
+1500,  cat, Emily Neville 
+1501, s Sake, Emily Sarah Holt 
+1502, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1503, Robin Tremayne, Emily Sarah Holt 
+1504, One Snowy Night, Emily Sarah Holt 
+1505, In Convent Walls, Emily Sarah Holt 
+1506, Jap Herron, Emily Grant Hutchings 
+1507, Barbara Lynn, Emily J
+1508, s Letters, Emily Eden 
+1509, Blazing The Way, Emily Inez Denny 
+1510, s Country, Emily Churchill Thompson Sheets 
+1511, The Olivia Letters, Emily Edson Briggs                                
+1512, Emily of New Moon, Lucy Maud Montgomery 
+1513, Wuthering Heights, Emily Bront
+1514, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1515, Etiquette, Emily Post 
+1516,  Complete, Emily Dickinson 
+1517,  Third Series, Emily Dickinson 
+1518, The Story Of Ireland, Emily Lawless 
+1519, Entertaining Made Easy, Emily Rose Burt 
+1520, Our Catholic Heritage in English Literature, Emily Hickey 
+1521,  The History of Emily Montague, Frances Brooke 
+1522, s Delight, Emily Mayer Higgins 
+1523,  Woman as Decoration, Emily Burbank 
+1524, Suzanna Stirs the Fire, Emily Calvin Blake 
+1525, s Daughter, Emily Sarah Holt 
+1526, The White Lady of Hazelwood, Emily Sarah Holt 
+1527, The White Rose of Langley, Emily Sarah Holt 
+1528,  Mistress Margery, Emily Sarah Holt 
+1529, The Well in the Desert, Emily Sarah Holt 
+1530, Our Little Lady, Emily Sarah Holt 
+1531, s Daughters, Emily Sarah Holt 
+1532, A Forgotten Hero, Emily Sarah Holt 
+1533, Clare Avery, Emily Sarah Holt 
+1534,  Lodge, Emily Sarah Holt 
+1535, The Gold that Glitters, Emily Sarah Holt 
+1536, s Well, Emily Sarah Holt 
+1537, Through the Malay Archipelago, Emily Richings 
+1538,  A Poem XXI, Emily Dickinson 
+1539, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1540, It Might Have Been, Emily Sarah Holt 
+1541, s Harvest, Emily Sarah Holt 
+1542,  cat, Emily Neville 
+1543, s Sake, Emily Sarah Holt 
+1544, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1545, Robin Tremayne, Emily Sarah Holt 
+1546, One Snowy Night, Emily Sarah Holt 
+1547, In Convent Walls, Emily Sarah Holt 
+1548, Jap Herron, Emily Grant Hutchings 
+1549, Barbara Lynn, Emily J
+1550, s Letters, Emily Eden 
+1551, Blazing The Way, Emily Inez Denny 
+1552, s Country, Emily Churchill Thompson Sheets 
+1553, The Olivia Letters, Emily Edson Briggs                                
+1554, Emily of New Moon, Lucy Maud Montgomery 
+1555, Wuthering Heights, Emily Bront
+1556, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1557, Etiquette, Emily Post 
+1558,  Complete, Emily Dickinson 
+1559,  Third Series, Emily Dickinson 
+1560, The Story Of Ireland, Emily Lawless 
+1561, Entertaining Made Easy, Emily Rose Burt 
+1562, Our Catholic Heritage in English Literature, Emily Hickey 
+1563,  The History of Emily Montague, Frances Brooke 
+1564, s Delight, Emily Mayer Higgins 
+1565,  Woman as Decoration, Emily Burbank 
+1566, Suzanna Stirs the Fire, Emily Calvin Blake 
+1567, s Daughter, Emily Sarah Holt 
+1568, The White Lady of Hazelwood, Emily Sarah Holt 
+1569, The White Rose of Langley, Emily Sarah Holt 
+1570,  Mistress Margery, Emily Sarah Holt 
+1571, The Well in the Desert, Emily Sarah Holt 
+1572, Our Little Lady, Emily Sarah Holt 
+1573, s Daughters, Emily Sarah Holt 
+1574, A Forgotten Hero, Emily Sarah Holt 
+1575, Clare Avery, Emily Sarah Holt 
+1576,  Lodge, Emily Sarah Holt 
+1577, The Gold that Glitters, Emily Sarah Holt 
+1578, s Well, Emily Sarah Holt 
+1579, Through the Malay Archipelago, Emily Richings 
+1580,  A Poem XXI, Emily Dickinson 
+1581, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1582, It Might Have Been, Emily Sarah Holt 
+1583, s Harvest, Emily Sarah Holt 
+1584,  cat, Emily Neville 
+1585, s Sake, Emily Sarah Holt 
+1586, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1587, Robin Tremayne, Emily Sarah Holt 
+1588, One Snowy Night, Emily Sarah Holt 
+1589, In Convent Walls, Emily Sarah Holt 
+1590, Jap Herron, Emily Grant Hutchings 
+1591, Barbara Lynn, Emily J
+1592, s Letters, Emily Eden 
+1593, Blazing The Way, Emily Inez Denny 
+1594, s Country, Emily Churchill Thompson Sheets 
+1595, The Olivia Letters, Emily Edson Briggs                                
+1596, Emily of New Moon, Lucy Maud Montgomery 
+1597, Wuthering Heights, Emily Bront
+1598, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1599, Etiquette, Emily Post 
+1600,  Complete, Emily Dickinson 
+1601,  Third Series, Emily Dickinson 
+1602, The Story Of Ireland, Emily Lawless 
+1603, Entertaining Made Easy, Emily Rose Burt 
+1604, Our Catholic Heritage in English Literature, Emily Hickey 
+1605,  The History of Emily Montague, Frances Brooke 
+1606, s Delight, Emily Mayer Higgins 
+1607,  Woman as Decoration, Emily Burbank 
+1608, Suzanna Stirs the Fire, Emily Calvin Blake 
+1609, s Daughter, Emily Sarah Holt 
+1610, The White Lady of Hazelwood, Emily Sarah Holt 
+1611, The White Rose of Langley, Emily Sarah Holt 
+1612,  Mistress Margery, Emily Sarah Holt 
+1613, The Well in the Desert, Emily Sarah Holt 
+1614, Our Little Lady, Emily Sarah Holt 
+1615, s Daughters, Emily Sarah Holt 
+1616, A Forgotten Hero, Emily Sarah Holt 
+1617, Clare Avery, Emily Sarah Holt 
+1618,  Lodge, Emily Sarah Holt 
+1619, The Gold that Glitters, Emily Sarah Holt 
+1620, s Well, Emily Sarah Holt 
+1621, Through the Malay Archipelago, Emily Richings 
+1622,  A Poem XXI, Emily Dickinson 
+1623, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1624, It Might Have Been, Emily Sarah Holt 
+1625, s Harvest, Emily Sarah Holt 
+1626,  cat, Emily Neville 
+1627, s Sake, Emily Sarah Holt 
+1628, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1629, Robin Tremayne, Emily Sarah Holt 
+1630, One Snowy Night, Emily Sarah Holt 
+1631, In Convent Walls, Emily Sarah Holt 
+1632, Jap Herron, Emily Grant Hutchings 
+1633, Barbara Lynn, Emily J
+1634, s Letters, Emily Eden 
+1635, Blazing The Way, Emily Inez Denny 
+1636, s Country, Emily Churchill Thompson Sheets 
+1637, The Olivia Letters, Emily Edson Briggs                                
+1638, Emily of New Moon, Lucy Maud Montgomery 
+1639, Wuthering Heights, Emily Bront
+1640, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1641, Etiquette, Emily Post 
+1642,  Complete, Emily Dickinson 
+1643,  Third Series, Emily Dickinson 
+1644, The Story Of Ireland, Emily Lawless 
+1645, Entertaining Made Easy, Emily Rose Burt 
+1646, Our Catholic Heritage in English Literature, Emily Hickey 
+1647,  The History of Emily Montague, Frances Brooke 
+1648, s Delight, Emily Mayer Higgins 
+1649,  Woman as Decoration, Emily Burbank 
+1650, Suzanna Stirs the Fire, Emily Calvin Blake 
+1651, s Daughter, Emily Sarah Holt 
+1652, The White Lady of Hazelwood, Emily Sarah Holt 
+1653, The White Rose of Langley, Emily Sarah Holt 
+1654,  Mistress Margery, Emily Sarah Holt 
+1655, The Well in the Desert, Emily Sarah Holt 
+1656, Our Little Lady, Emily Sarah Holt 
+1657, s Daughters, Emily Sarah Holt 
+1658, A Forgotten Hero, Emily Sarah Holt 
+1659, Clare Avery, Emily Sarah Holt 
+1660,  Lodge, Emily Sarah Holt 
+1661, The Gold that Glitters, Emily Sarah Holt 
+1662, s Well, Emily Sarah Holt 
+1663, Through the Malay Archipelago, Emily Richings 
+1664,  A Poem XXI, Emily Dickinson 
+1665, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1666, It Might Have Been, Emily Sarah Holt 
+1667, s Harvest, Emily Sarah Holt 
+1668,  cat, Emily Neville 
+1669, s Sake, Emily Sarah Holt 
+1670, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1671, Robin Tremayne, Emily Sarah Holt 
+1672, One Snowy Night, Emily Sarah Holt 
+1673, In Convent Walls, Emily Sarah Holt 
+1674, Jap Herron, Emily Grant Hutchings 
+1675, Barbara Lynn, Emily J
+1676, s Letters, Emily Eden 
+1677, Blazing The Way, Emily Inez Denny 
+1678, s Country, Emily Churchill Thompson Sheets 
+1679, The Olivia Letters, Emily Edson Briggs                                
+1680, Emily of New Moon, Lucy Maud Montgomery 
+1681, Wuthering Heights, Emily Bront
+1682, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1683, Etiquette, Emily Post 
+1684,  Complete, Emily Dickinson 
+1685,  Third Series, Emily Dickinson 
+1686, The Story Of Ireland, Emily Lawless 
+1687, Entertaining Made Easy, Emily Rose Burt 
+1688, Our Catholic Heritage in English Literature, Emily Hickey 
+1689,  The History of Emily Montague, Frances Brooke 
+1690, s Delight, Emily Mayer Higgins 
+1691,  Woman as Decoration, Emily Burbank 
+1692, Suzanna Stirs the Fire, Emily Calvin Blake 
+1693, s Daughter, Emily Sarah Holt 
+1694, The White Lady of Hazelwood, Emily Sarah Holt 
+1695, The White Rose of Langley, Emily Sarah Holt 
+1696,  Mistress Margery, Emily Sarah Holt 
+1697, The Well in the Desert, Emily Sarah Holt 
+1698, Our Little Lady, Emily Sarah Holt 
+1699, s Daughters, Emily Sarah Holt 
+1700, A Forgotten Hero, Emily Sarah Holt 
+1701, Clare Avery, Emily Sarah Holt 
+1702,  Lodge, Emily Sarah Holt 
+1703, The Gold that Glitters, Emily Sarah Holt 
+1704, s Well, Emily Sarah Holt 
+1705, Through the Malay Archipelago, Emily Richings 
+1706,  A Poem XXI, Emily Dickinson 
+1707, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1708, It Might Have Been, Emily Sarah Holt 
+1709, s Harvest, Emily Sarah Holt 
+1710,  cat, Emily Neville 
+1711, s Sake, Emily Sarah Holt 
+1712, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1713, Robin Tremayne, Emily Sarah Holt 
+1714, One Snowy Night, Emily Sarah Holt 
+1715, In Convent Walls, Emily Sarah Holt 
+1716, Jap Herron, Emily Grant Hutchings 
+1717, Barbara Lynn, Emily J
+1718, s Letters, Emily Eden 
+1719, Blazing The Way, Emily Inez Denny 
+1720, s Country, Emily Churchill Thompson Sheets 
+1721, The Olivia Letters, Emily Edson Briggs                                
+1722, Emily of New Moon, Lucy Maud Montgomery 
+1723, Wuthering Heights, Emily Bront
+1724, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1725, Etiquette, Emily Post 
+1726,  Complete, Emily Dickinson 
+1727,  Third Series, Emily Dickinson 
+1728, The Story Of Ireland, Emily Lawless 
+1729, Entertaining Made Easy, Emily Rose Burt 
+1730, Our Catholic Heritage in English Literature, Emily Hickey 
+1731,  The History of Emily Montague, Frances Brooke 
+1732, s Delight, Emily Mayer Higgins 
+1733,  Woman as Decoration, Emily Burbank 
+1734, Suzanna Stirs the Fire, Emily Calvin Blake 
+1735, s Daughter, Emily Sarah Holt 
+1736, The White Lady of Hazelwood, Emily Sarah Holt 
+1737, The White Rose of Langley, Emily Sarah Holt 
+1738,  Mistress Margery, Emily Sarah Holt 
+1739, The Well in the Desert, Emily Sarah Holt 
+1740, Our Little Lady, Emily Sarah Holt 
+1741, s Daughters, Emily Sarah Holt 
+1742, A Forgotten Hero, Emily Sarah Holt 
+1743, Clare Avery, Emily Sarah Holt 
+1744,  Lodge, Emily Sarah Holt 
+1745, The Gold that Glitters, Emily Sarah Holt 
+1746, s Well, Emily Sarah Holt 
+1747, Through the Malay Archipelago, Emily Richings 
+1748,  A Poem XXI, Emily Dickinson 
+1749, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1750, It Might Have Been, Emily Sarah Holt 
+1751, s Harvest, Emily Sarah Holt 
+1752,  cat, Emily Neville 
+1753, s Sake, Emily Sarah Holt 
+1754, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1755, Robin Tremayne, Emily Sarah Holt 
+1756, One Snowy Night, Emily Sarah Holt 
+1757, In Convent Walls, Emily Sarah Holt 
+1758, Jap Herron, Emily Grant Hutchings 
+1759, Barbara Lynn, Emily J
+1760, s Letters, Emily Eden 
+1761, Blazing The Way, Emily Inez Denny 
+1762, s Country, Emily Churchill Thompson Sheets 
+1763, The Olivia Letters, Emily Edson Briggs                                
+1764, Emily of New Moon, Lucy Maud Montgomery 
+1765, Wuthering Heights, Emily Bront
+1766, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1767, Etiquette, Emily Post 
+1768,  Complete, Emily Dickinson 
+1769,  Third Series, Emily Dickinson 
+1770, The Story Of Ireland, Emily Lawless 
+1771, Entertaining Made Easy, Emily Rose Burt 
+1772, Our Catholic Heritage in English Literature, Emily Hickey 
+1773,  The History of Emily Montague, Frances Brooke 
+1774, s Delight, Emily Mayer Higgins 
+1775,  Woman as Decoration, Emily Burbank 
+1776, Suzanna Stirs the Fire, Emily Calvin Blake 
+1777, s Daughter, Emily Sarah Holt 
+1778, The White Lady of Hazelwood, Emily Sarah Holt 
+1779, The White Rose of Langley, Emily Sarah Holt 
+1780,  Mistress Margery, Emily Sarah Holt 
+1781, The Well in the Desert, Emily Sarah Holt 
+1782, Our Little Lady, Emily Sarah Holt 
+1783, s Daughters, Emily Sarah Holt 
+1784, A Forgotten Hero, Emily Sarah Holt 
+1785, Clare Avery, Emily Sarah Holt 
+1786,  Lodge, Emily Sarah Holt 
+1787, The Gold that Glitters, Emily Sarah Holt 
+1788, s Well, Emily Sarah Holt 
+1789, Through the Malay Archipelago, Emily Richings 
+1790,  A Poem XXI, Emily Dickinson 
+1791, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1792, It Might Have Been, Emily Sarah Holt 
+1793, s Harvest, Emily Sarah Holt 
+1794,  cat, Emily Neville 
+1795, s Sake, Emily Sarah Holt 
+1796, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1797, Robin Tremayne, Emily Sarah Holt 
+1798, One Snowy Night, Emily Sarah Holt 
+1799, In Convent Walls, Emily Sarah Holt 
+1800, Jap Herron, Emily Grant Hutchings 
+1801, Barbara Lynn, Emily J
+1802, s Letters, Emily Eden 
+1803, Blazing The Way, Emily Inez Denny 
+1804, s Country, Emily Churchill Thompson Sheets 
+1805, The Olivia Letters, Emily Edson Briggs                                
+1806, Emily of New Moon, Lucy Maud Montgomery 
+1807, Wuthering Heights, Emily Bront
+1808, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1809, Etiquette, Emily Post 
+1810,  Complete, Emily Dickinson 
+1811,  Third Series, Emily Dickinson 
+1812, The Story Of Ireland, Emily Lawless 
+1813, Entertaining Made Easy, Emily Rose Burt 
+1814, Our Catholic Heritage in English Literature, Emily Hickey 
+1815,  The History of Emily Montague, Frances Brooke 
+1816, s Delight, Emily Mayer Higgins 
+1817,  Woman as Decoration, Emily Burbank 
+1818, Suzanna Stirs the Fire, Emily Calvin Blake 
+1819, s Daughter, Emily Sarah Holt 
+1820, The White Lady of Hazelwood, Emily Sarah Holt 
+1821, The White Rose of Langley, Emily Sarah Holt 
+1822,  Mistress Margery, Emily Sarah Holt 
+1823, The Well in the Desert, Emily Sarah Holt 
+1824, Our Little Lady, Emily Sarah Holt 
+1825, s Daughters, Emily Sarah Holt 
+1826, A Forgotten Hero, Emily Sarah Holt 
+1827, Clare Avery, Emily Sarah Holt 
+1828,  Lodge, Emily Sarah Holt 
+1829, The Gold that Glitters, Emily Sarah Holt 
+1830, s Well, Emily Sarah Holt 
+1831, Through the Malay Archipelago, Emily Richings 
+1832,  A Poem XXI, Emily Dickinson 
+1833, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1834, It Might Have Been, Emily Sarah Holt 
+1835, s Harvest, Emily Sarah Holt 
+1836,  cat, Emily Neville 
+1837, s Sake, Emily Sarah Holt 
+1838, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1839, Robin Tremayne, Emily Sarah Holt 
+1840, One Snowy Night, Emily Sarah Holt 
+1841, In Convent Walls, Emily Sarah Holt 
+1842, Jap Herron, Emily Grant Hutchings 
+1843, Barbara Lynn, Emily J
+1844, s Letters, Emily Eden 
+1845, Blazing The Way, Emily Inez Denny 
+1846, s Country, Emily Churchill Thompson Sheets 
+1847, The Olivia Letters, Emily Edson Briggs                                
+1848, Emily of New Moon, Lucy Maud Montgomery 
+1849, Wuthering Heights, Emily Bront
+1850, An Appeal to the Christian Women of the South, Angelina Emily Grimk
+1851, Etiquette, Emily Post 
+1852,  Complete, Emily Dickinson 
+1853,  Third Series, Emily Dickinson 
+1854, The Story Of Ireland, Emily Lawless 
+1855, Entertaining Made Easy, Emily Rose Burt 
+1856, Our Catholic Heritage in English Literature, Emily Hickey 
+1857,  The History of Emily Montague, Frances Brooke 
+1858, s Delight, Emily Mayer Higgins 
+1859,  Woman as Decoration, Emily Burbank 
+1860, Suzanna Stirs the Fire, Emily Calvin Blake 
+1861, s Daughter, Emily Sarah Holt 
+1862, The White Lady of Hazelwood, Emily Sarah Holt 
+1863, The White Rose of Langley, Emily Sarah Holt 
+1864,  Mistress Margery, Emily Sarah Holt 
+1865, The Well in the Desert, Emily Sarah Holt 
+1866, Our Little Lady, Emily Sarah Holt 
+1867, s Daughters, Emily Sarah Holt 
+1868, A Forgotten Hero, Emily Sarah Holt 
+1869, Clare Avery, Emily Sarah Holt 
+1870,  Lodge, Emily Sarah Holt 
+1871, The Gold that Glitters, Emily Sarah Holt 
+1872, s Well, Emily Sarah Holt 
+1873, Through the Malay Archipelago, Emily Richings 
+1874,  A Poem XXI, Emily Dickinson 
+1875, Chats on Old Lace and Needlework, Emily Leigh Lowes 
+1876, It Might Have Been, Emily Sarah Holt 
+1877, s Harvest, Emily Sarah Holt 
+1878,  cat, Emily Neville 
+1879, s Sake, Emily Sarah Holt 
+1880, An Ohio Woman in the Philippines, Emily Bronson Conger 
+1881, Robin Tremayne, Emily Sarah Holt 
+1882, One Snowy Night, Emily Sarah Holt 
+1883, In Convent Walls, Emily Sarah Holt 
+1884, Jap Herron, Emily Grant Hutchings 
+1885, Barbara Lynn, Emily J
+1886, s Letters, Emily Eden 
+1887, Blazing The Way, Emily Inez Denny 
+1888, s Country, Emily Churchill Thompson Sheets 
+1889, The Olivia Letters, Emily Edson Briggs                                
+1890, Emily of New Moon, Lucy Maud Montgomery 

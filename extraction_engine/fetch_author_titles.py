@@ -6,7 +6,7 @@ import time
 class MongoDB:
     @staticmethod 
     def establish_connection():
-        client = MongoClient("mongodb://admin:test123@18.207.217.163:27017/English_Book_Records?authSource=admin")
+        client = MongoClient("mongodb://admin:test123@34.238.116.46:27017/English_Book_Records?authSource=admin")
         return client
 
 def generate_title_authors(filename):
