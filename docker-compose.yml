@@ -1,17 +1,16 @@
 version: '3'
 
-services:
-  entry-point:
-    build: ./entry-point 
-    ports:
-      - "5000:5000"
-      
+services:      
   catalogue:
     build: ./Catalogue
     ports:
       - "5200:5200"
     links:
        - db
+  entry-point:
+    build: ./entry-point 
+    ports:
+      - "5000:5000"
   db:
     build: ./db
     ports:

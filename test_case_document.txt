@@ -1,0 +1,8 @@
+test_case_id, version, description, Result
+__main__.FlaskDockerContainerTest.test_index, 2020-03-24 20:15:25.186452, Test Case For Main Search Keyword Page, Pass
+__main__.FlaskDockerContainerTest.test_notes, 2020-03-24 20:15:27.221723, Check if notes are retrieved successfully with an associated keyword, Pass
+__main__.FlaskDockerContainerTest.test_post_search_query, 2020-03-24 20:15:32.129917, Check if query is submitted to Search Log Microservice, Pass
+__main__.FlaskDockerContainerTest.test_records, 2020-03-24 20:15:35.081689, Check if records are retrieving successfully for a specific keyword, Pass
+__main__.FlaskDockerContainerTest.test_search, 2020-03-24 20:15:35.082679, Check if the query is returning properly after submission, Pass
+__main__.FlaskDockerContainerTest.test_send_query_catalogue, 2020-03-24 20:15:38.055574, Check if query is submitted to Search Log Microservice, Pass
+__main__.FlaskDockerContainerTest.test_send_query_notes, 2020-03-24 20:15:40.065061, Check if notes are submitted to note microservice, Pass

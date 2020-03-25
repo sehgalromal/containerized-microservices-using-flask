@@ -7,7 +7,7 @@ app = Flask(__name__)
 class MongoDB:
     @staticmethod 
     def establish_connection():
-        client = MongoClient("mongodb://admin:test123@172.31.86.132:27017/English_Book_Records?authSource=admin")
+        client = MongoClient("mongodb://admin:test123@34.238.116.46:27017/English_Book_Records?authSource=admin")
         return client
 
 conn = MongoDB() 
@@ -37,4 +37,4 @@ def verify_keyword(keyword):
     }) 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5200, debug=True)
+    app.run(port=5200, debug=True)
